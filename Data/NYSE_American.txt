@@ -1,0 +1,100 @@
+Almaden Minerals Ltd New	AAU		AAU -0.040.75	-0.04	-5.63%	1,938,730
+Aerocentury Corp	ACY		ACY +1.1112.57	+1.11	+9.69%	762,420
+AIM ImmunoTech Inc	AIM		AIM -0.072.29	-0.07	-2.97%	1,019,711
+Ambow Education Holding Ltd	AMBO		AMBO -0.072.40	-0.07	-2.83%	406,796
+Ampio Pharmaceuticals Inc	AMPE		AMPE +0.031.72	+0.03	+1.48%	1,514,597
+Alpha Pro Tech Ltd	APT		APT -0.3214.05	-0.32	-2.23%	519,923
+Avino Silver and Gold Mines Ltd	ASM		ASM -0.101.39	-0.10	-6.64%	2,998,345
+Golden Minerals Co	AUMN		AUMN -0.020.78	-0.02	-2.84%	1,424,530
+Alexco Resource Corp	AXU		AXU -0.192.75	-0.19	-6.46%	1,710,314
+Birks Group Inc	BGI		BGI -0.071.76	-0.07	-3.95%	388,236
+B2Gold Corp	BTG		BTG -0.264.37	-0.26	-5.52%	10,991,052
+Can Fite BioPharma Ltd	CANF		CANF -0.132.03	-0.13	-6.02%	407,226
+Cboe Global Markets Inc	CBOE		CBOE -0.3199.69	-0.31	-0.31%	584,395
+Sprott Physical Gold and Silver Trust	CEF		CEF -0.5218.18	-0.52	-2.78%	1,257,242
+Camber Energy Inc	CEI		CEI -0.061.44	-0.06	-3.69%	2,063,487
+Credit Suisse Asset Management Fund Inc	CIK		CIK +0.093.27	+0.09	+2.83%	2,431,165
+Cornerstone Strategic Value Fund New	CLM		CLM +0.1112.76	+0.11	+0.87%	697,696
+China Pharma Holdings Inc	CPHI		CPHI -0.040.88	-0.04	-4.76%	458,537
+CRH Medical Corporation	CRHM		CRHM -0.033.86	-0.03	-0.77%	398,655
+Cel Sci Corporation New	CVM		CVM -0.4617.92	-0.46	-2.50%	493,673
+Credit Suisse High Yield Bond Fund	DHY		DHY +0.042.36	+0.04	+1.51%	5,952,748
+Denison Mines Corp	DNN		DNN -0.071.02	-0.07	-6.42%	34,162,329
+Ault Global Holdings Inc	DPW		DPW -0.204.06	-0.20	-4.69%	5,910,541
+Document Security Systems Inc New	DSS		DSS -0.103.48	-0.10	-2.79%	2,279,621
+eMagin Corporation	EMAN		EMAN -0.173.81	-0.17	-4.27%	1,455,767
+ENSERVCO Corporation	ENSV		ENSV -0.052.01	-0.05	-2.43%	885,016
+Equinox Gold Corporation	EQX		EQX -0.458.15	-0.45	-5.23%	1,930,074
+Aberdeen Asia Pacific Prime Income Fund	FAX		FAX +0.014.27	+0.01	+0.23%	1,090,106
+FT Cboe Vest US Equity Buffer ETF February	FFEB		FFEB -0.0533.37	-0.05	-0.14%	563,244
+Fury Gold Mines Limited	FURY		FURY -0.061.38	-0.06	-4.17%	704,539
+Galiano Gold Inc	GAU		GAU -0.091.12	-0.09	-7.44%	1,379,289
+GAMCO Global Gold Natural Resources and Income Trust	GGN		GGN -0.053.37	-0.05	-1.46%	1,727,252
+GoldMining Inc	GLDG		GLDG -0.071.63	-0.07	-3.89%	682,168
+Gold Resource Corporation	GORO		GORO -0.072.71	-0.07	-2.35%	703,738
+Great Panther Mining Limited	GPL		GPL -0.050.91	-0.05	-5.30%	4,834,290
+Globalstar Inc	GSAT		GSAT +0.001.68	+0.00	+0.01%	26,327,514
+Golden Star Resources Ltd	GSS		GSS -0.133.17	-0.13	-3.94%	515,823
+Gold Standard Ventures Corporation	GSV		GSV -0.030.62	-0.03	-3.95%	7,591,684
+Gran Tierra Energy Inc	GTE		GTE -0.050.84	-0.05	-5.68%	11,007,810
+Houston American Energy Corp	HUSA		HUSA -0.072.36	-0.07	-2.88%	1,322,722
+iBio Inc	IBIO		IBIO -0.061.80	-0.06	-2.97%	4,563,484
+India Globalization Capital Inc	IGC		IGC -0.041.77	-0.04	-2.21%	1,481,312
+Inuvo Inc	INUV		INUV -0.011.08	-0.01	-1.02%	2,567,006
+IsoRay Inc	ISR		ISR -0.091.37	-0.09	-6.16%	4,882,338
+IT Tech Packaging Inc	ITP		ITP -0.000.78	-0.00	-0.01%	10,164,351
+Kelso Technologies Inc	KIQ		KIQ -0.011.05	-0.01	-0.84%	5,351,219
+Kaleyra Inc	KLR		KLR +0.6718.46	+0.67	+3.77%	828,807
+Lineage Cell Therapeutics Inc	LCTX		LCTX +0.012.30	+0.01	+0.44%	983,543
+Cheniere Energy Inc	LNG		LNG -1.8666.43	-1.86	-2.72%	905,246
+Comstock Mining Inc	LODE		LODE -0.195.20	-0.19	-3.53%	1,149,464
+MAG Silver Corp	MAG		MAG -1.7919.34	-1.79	-8.45%	928,079
+Contango Oil and Gas Co	MCF		MCF +0.055.01	+0.05	+1.01%	471,510
+Milestone Scientific Inc	MLSS		MLSS +0.173.73	+0.17	+4.81%	730,755
+Metalla Royalty & Streaming Ltd	MTA		MTA -0.218.52	-0.21	-2.41%	406,565
+Matinas Biopharma Holdings Inc	MTNB		MTNB -0.051.24	-0.05	-3.96%	2,254,710
+Northern Dynasty Minerals Ltd	NAK		NAK +0.090.79	+0.09	+13.27%	137,810,652
+NovaBay Pharmaceuticals Inc New	NBY		NBY +0.001.12	+0.00	+0.01%	22,828,818
+Novagold Resources Inc	NG		NG -0.548.43	-0.54	-5.97%	1,702,532
+New Gold Inc	NGD		NGD -0.031.61	-0.03	-1.83%	9,612,686
+Northern Oil and Gas Inc	NOG		NOG -0.2913.05	-0.29	-2.17%	528,209
+InspireMD Inc New	NSPR		NSPR -0.040.86	-0.04	-4.46%	7,973,075
+NexGen Energy Ltd	NXE		NXE -0.473.51	-0.47	-11.71%	3,574,270
+OncoCyte Corporation	OCX		OCX -0.175.17	-0.17	-3.18%	576,982
+Oragenics Inc	OGEN		OGEN -0.031.02	-0.03	-2.86%	4,032,145
+PEDEVCO Corp New	PED		PED -0.061.62	-0.06	-3.37%	1,075,588
+Platinum Group Metals Ltd New	PLG		PLG -0.103.99	-0.10	-2.41%	1,156,491
+Polymet Mining Corp	PLM		PLM -0.304.54	-0.30	-6.20%	435,917
+Protalix BioTherapeutics Inc	PLX		PLX -0.024.81	-0.02	-0.31%	573,114
+Palatin Technologies Inc New	PTN		PTN -0.040.78	-0.04	-4.47%	2,631,378
+Ring Energy Inc	REI		REI -0.202.25	-0.20	-8.16%	5,260,640
+Superior Drilling Products Inc	SDPI		SDPI -0.080.96	-0.08	-7.86%	853,530
+Senseonics Holdings Inc	SENS		SENS -0.353.46	-0.35	-9.19%	36,218,411
+SilverCrest Metals Inc	SILV		SILV -0.428.23	-0.42	-4.86%	2,242,563
+Sierra Metals Inc	SMTS		SMTS -0.152.67	-0.15	-5.16%	470,538
+Sanchez Midstream Partners LP	SNMP		SNMP +0.011.17	+0.01	+0.86%	399,350
+Stereotaxis Inc	STXS		STXS -0.047.42	-0.04	-0.54%	966,318
+Silvercorp Metals Inc	SVM		SVM -0.425.85	-0.42	-6.63%	1,923,718
+Synthetic Biologics Inc	SYN		SYN -0.020.67	-0.02	-3.27%	8,652,030
+Taseko Mines Ltd	TGB		TGB -0.161.66	-0.16	-9.05%	4,180,137
+Tengasco Inc New	TGC		TGC -1.052.65	-1.05	-28.38%	2,679,432
+International Tower Hill Mines Ltd New	THM		THM -0.071.13	-0.07	-5.46%	633,203
+Timber Pharmaceuticals Inc	TMBR		TMBR -0.121.82	-0.12	-6.19%	3,595,280
+Trilogy Metals Inc	TMQ		TMQ -0.032.15	-0.03	-1.38%	802,598
+Tanzanian Gold Corporation	TRX		TRX -0.000.70	-0.00	-0.68%	3,491,790
+TransEnterix Inc New	TRXC		TRXC -0.313.59	-0.31	-7.95%	14,143,578
+United States Antimony Corp	UAMY		UAMY -0.211.45	-0.21	-12.58%	12,033,010
+AgEagle Aerial Systems Inc	UAVS		UAVS -0.077.92	-0.07	-0.85%	2,493,173
+Uranium Energy Corp	UEC		UEC -0.082.15	-0.08	-3.38%	5,484,028
+Ur Energy Inc	URG		URG -0.011.13	-0.01	-0.78%	2,935,545
+Americas Gold and Silver Corporation	USAS		USAS -0.192.57	-0.19	-6.88%	1,613,654
+Universal Security Instruments Inc	UUU		UUU +0.287.19	+0.28	+4.05%	514,034
+Energy Fuels Inc	UUUU		UUUU -0.155.24	-0.15	-2.78%	2,729,675
+Vista Gold Corp	VGZ		VGZ -0.040.92	-0.04	-3.66%	683,264
+Western Copper and Gold Corporation	WRN		WRN -0.101.56	-0.10	-5.76%	732,486
+Wireless Telecom	WTT		WTT -0.171.85	-0.17	-8.42%	675,535
+Solitario Zinc Corp	XPL		XPL -0.040.94	-0.04	-4.17%	5,252,701
+Xtant Medical Holdings Inc	XTNT		XTNT +3.775.70	+3.77	+195.08%	170,767,994
+22nd Century Group Inc	XXII		XXII +0.063.47	+0.06	+1.61%	2,480,474
+cbdMD Inc	YCBD		YCBD -0.073.86	-0.07	-1.78%	432,425
+Zomedica Corp	ZOM		ZOM -0.041.82	-0.04	-1.89%	49,074,945

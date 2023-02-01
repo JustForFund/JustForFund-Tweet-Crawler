@@ -1,0 +1,29 @@
+  { "fuentes":[
+  {"nombre":"Big Tech", "url":"http://feeds2.feedburner.com/bit-tech/all", "peso": 1},
+  {"nombre":"Sky News business", "url":"http://news.sky.com/feeds/rss/business.xml", "peso": 1},
+  {"nombre":"Sky News technology", "url":"http://feeds.skynews.com/feeds/rss/technology.xml", "peso": 1},
+  {"nombre":"El País economía", "url":"ep00.epimg.net/rss/economia/portada.xml", "peso": 1},
+  {"nombre":"El País tecnología", "url":"ep00.epimg.net/rss/tecnologia/portada.xml", "peso": 1},
+  {"nombre": "MarketWatch.com Top Stories", "url":"feeds.marketwatch.com/marketwatch/topstories/", "peso": 1},
+  {"nombre": "MarketWatch.com Headlines", "url":"http://feeds.marketwatch.com/marketwatch/realtimeheadlines/", "peso": 1},
+  {"nombre": "FSB", "url":"http://www.fsb.org/content_type/publications/feed/", "peso": 10},
+  {"nombre": "NCSC", "url":"https://www.ncsc.gov.uk/blogs-feed.xml", "peso": 10},
+  {"nombre": "AMEinfo", "url":"https://ameinfo.com/feed/", "peso": 1},
+  {"nombre": "Europol", "url": "https://www.europol.europa.eu/rss.xml", "peso": 10},
+  {"nombre": "FED Boston", "url": "https://www.bostonfed.org/feeds/rss_news.xml", "peso": 10},
+  {"nombre": "Financial Times", "url": "https://www.ft.com/?format=rss", "peso": 10},
+  {"nombre": "Seeking alpha", "url": "https://seekingalpha.com/news/all/feed", "peso": 10},
+  {"nombre": "Timothy Sykes", "url": "https://www.timothysykes.com/feed/", "peso": 10},
+  {"nombre": "Wall Street Survivor", "url": "https://blog.wallstreetsurvivor.com/feed/", "peso": 10},
+  {"nombre": "Enterprising Investor", "url": "https://blogs.cfainstitute.org/investor/feed/", "peso": 10},
+  {"nombre": "The Reformed Broker", "url": "https://thereformedbroker.com/feed/", "peso": 10},
+  {"nombre": "GreenBiz", "url": "https://www.greenbiz.com/rss.xml", "peso": 10},
+  {"nombre": "Market Folly", "url": "http://www.marketfolly.com/feeds/posts/default", "peso": 10},
+  {"nombre": "Hedge Week", "url": "http://www.hedgeweek.com/dailynews.xml", "peso": 10},
+  {"nombre": "GlobeNewsWire", "url": "https://www.globenewswire.com/RssFeed/orgclass/1/feedTitle/GlobeNewswire%20-%20News%20about%20Public%20Companies", "peso": 10},
+  {"nombre": "Investing.com", "url": "https://www.investing.com/rss/news.rss", "peso": 10},
+  {"nombre": "Semafor", "url": "https://www.semafor.com/sitemap-news.xml", "peso": 10} 
+  ]
+}
+
+

@@ -1,0 +1,114 @@
+{
+  "AESGENER": {
+    "Name": "AESGener",
+    "Industry": "Electricity"
+  },
+  "AGUAS-A": {
+    "Name": "Aguas Andinas",
+    "Industry": "Water & Sanitation"
+  },
+  "ANDINA-B": {
+    "Name": "Embotelladora Andina",
+    "Industry": "Beverages"
+  },
+  "BCI": {
+    "Name": "Banco de Crédito e Inversiones",
+    "Industry": "Banks"
+  },
+  "BSANTANDER": {
+    "Name": "Banco Santander Santiago",
+    "Industry": "Banks"
+  },
+  "CAP": {
+    "Name": "Compañía de Acero del Pacífico",
+    "Industry": "Mining"
+  },
+  "CCU": {
+    "Name": "Compañía Cervecerías Unidas",
+    "Industry": "Beverages"
+  },
+  "CENCOSUD": {
+    "Name": "Cencosud",
+    "Industry": "Retailers"
+  },
+  "CHILE": {
+    "Name": "Banco de Chile",
+    "Industry": "Banks"
+  },
+  "CMPC": {
+    "Name": "Empresas CMPC",
+    "Industry": "Wood Pulp"
+  },
+  "COLBUN": {
+    "Name": "Colbun",
+    "Industry": "Electricity"
+  },
+  "CONCHATORO": {
+    "Name": "Viña Concha y Toro",
+    "Industry": "Wines"
+  },
+  "COPEC": {
+    "Name": "Empresas Copec",
+    "Industry": "Oil and retailer"
+  },
+  "ECL": {
+    "Name": "E-CL",
+    "Industry": "Electricity"
+  },
+  "ENDESA": {
+    "Name": "Empresa Nacional de Electricidad",
+    "Industry": "Electricity"
+  },
+  "ENERSIS": {
+    "Name": "Enersis",
+    "Industry": "Electricity"
+  },
+  "ENTEL": {
+    "Name": "Entel Chile",
+    "Industry": "Telecoms"
+  },
+  "FALABELLA": {
+    "Name": "S.A.C.I. Falabella",
+    "Industry": "Retailers"
+  },
+  "IAM": {
+    "Name": "Inversiones Aguas Metropolitanas",
+    "Industry": "Water & Sanitation"
+  },
+  "ILC": {
+    "Name": "ILC Inversiones",
+    "Industry": "Conglomerate"
+  },
+  "LTM": {
+    "Name": "Latam Airlines Group",
+    "Industry": "Airlines"
+  },
+  "PARAUCO": {
+    "Name": "Parque Arauco S.A.",
+    "Industry": "Shopping Mall Developer"
+  },
+  "RIPLEY": {
+    "Name": "Ripley",
+    "Industry": "Retailers"
+  },
+  "SALFACORP": {
+    "Name": "Salfacorp",
+    "Industry": "Real Estate Developer"
+  },
+  "SECURITY": {
+    "Name": "Grupo Security",
+    "Industry": "Banks"
+  },
+  "SONDA": {
+    "Name": "Sonda",
+    "Industry": "Software"
+  },
+  "SQM-B": {
+    "Name": "Sociedad Química y Minera de Chile",
+    "Industry": "Chemicals"
+  },
+  "VAPORES": {
+    "Name": "Compañía Sudamericana de Vapores",
+    "Industry": "Shipping"
+  }
+}

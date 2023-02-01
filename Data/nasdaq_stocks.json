@@ -1,0 +1,4332 @@
+{
+  "TXG": {
+    "Name": "10x Genomics, Inc.",
+    "Sector": "Capital Goods",
+    "Industry": "Biotechnology: Laboratory Analytical Instruments"
+  },
+  "FLWS": {
+    "Name": "1-800-FLOWERS.COM, Inc.",
+    "Sector": "Consumer Services",
+    "Industry": "Other Specialty Stores"
+  },
+  "ONEM": {
+    "Name": "1Life Healthcare, Inc.",
+    "Sector": "Health Care",
+    "Industry": "Medical/Nursing Services"
+  },
+  "VNET": {
+    "Name": "21Vianet Group, Inc.",
+    "Sector": "Technology",
+    "Industry": "Computer Software: Programming, Data Processing"
+  },
+  "TWOU": {
+    "Name": "2U, Inc.",
+    "Sector": "Technology",
+    "Industry": "Computer Software: Prepackaged Software"
+  },
+  "QFIN": {
+    "Name": "360 Finance, Inc.",
+    "Sector": "Finance",
+    "Industry": "Finance: Consumer Services"
+  },
+  "JOBS": {
+    "Name": "51job, Inc.",
+    "Sector": "Technology",
+    "Industry": "Diversified Commercial Services"
+  },
+  "EGHT": {
+    "Name": "8x8 Inc",
+    "Sector": "Technology",
+    "Industry": "EDP Services"
+  },
+  "JFU": {
+    "Name": "9F Inc.",
+    "Sector": "Finance",
+    "Industry": "Finance: Consumer Services"
+  },
+  "AAON": {
+    "Name": "AAON, Inc.",
+    "Sector": "Capital Goods",
+    "Industry": "Industrial Machinery/Components"
+  },
+  "ABMD": {
+    "Name": "ABIOMED, Inc.",
+    "Sector": "Health Care",
+    "Industry": "Medical/Dental Instruments"
+  },
+  "ACIA": {
+    "Name": "Acacia Communications, Inc.",
+    "Sector": "Technology",
+    "Industry": "Semiconductors"
+  },
+  "ACHC": {
+    "Name": "Acadia Healthcare Company, Inc.",
+    "Sector": "Health Care",
+    "Industry": "Medical Specialities"
+  },
+  "ACAD": {
+    "Name": "ACADIA Pharmaceuticals Inc.",
+    "Sector": "Health Care",
+    "Industry": "Major Pharmaceuticals"
+  },
+  "XLRN": {
+    "Name": "Acceleron Pharma Inc.",
+    "Sector": "Health Care",
+    "Industry": "Biotechnology: Biological Products (No Diagnostic Substances)"
+  },
+  "ACIW": {
+    "Name": "ACI Worldwide, Inc.",
+    "Sector": "Technology",
+    "Industry": "Computer Software: Prepackaged Software"
+  },
+  "ACMR": {
+    "Name": "ACM Research, Inc.",
+    "Sector": "Technology",
+    "Industry": "Industrial Machinery/Components"
+  },
+  "ATVI": {
+    "Name": "Activision Blizzard, Inc",
+    "Sector": "Technology",
+    "Industry": "Computer Software: Prepackaged Software"
+  },
+  "AHCO": {
+    "Name": "AdaptHealth Corp. ",
+    "Sector": "Health Care",
+    "Industry": "Medical/Nursing Services"
+  },
+  "ADAP": {
+    "Name": "Adaptimmune Therapeutics plc",
+    "Sector": "Health Care",
+    "Industry": "Biotechnology: Biological Products (No Diagnostic Substances)"
+  },
+  "ADPT": {
+    "Name": "Adaptive Biotechnologies Corporation",
+    "Sector": "Health Care",
+    "Industry": "Biotechnology: Biological Products (No Diagnostic Substances)"
+  },
+  "ADUS": {
+    "Name": "Addus HomeCare Corporation",
+    "Sector": "Health Care",
+    "Industry": "Medical/Nursing Services"
+  },
+  "ADBE": {
+    "Name": "Adobe Inc.",
+    "Sector": "Technology",
+    "Industry": "Computer Software: Prepackaged Software"
+  },
+  "AEIS": {
+    "Name": "Advanced Energy Industries, Inc.",
+    "Sector": "Capital Goods",
+    "Industry": "Industrial Machinery/Components"
+  },
+  "AMD": {
+    "Name": "Advanced Micro Devices, Inc.",
+    "Sector": "Technology",
+    "Industry": "Semiconductors"
+  },
+  "ADVM": {
+    "Name": "Adverum Biotechnologies, Inc.",
+    "Sector": "Health Care",
+    "Industry": "Biotechnology: Biological Products (No Diagnostic Substances)"
+  },
+  "AVAV": {
+    "Name": "AeroVironment, Inc.",
+    "Sector": "Capital Goods",
+    "Industry": "Aerospace"
+  },
+  "AFYA": {
+    "Name": "Afya Limited",
+    "Sector": "Consumer Services",
+    "Industry": "Other Consumer Services"
+  },
+  "AGIO": {
+    "Name": "Agios Pharmaceuticals, Inc.",
+    "Sector": "Health Care",
+    "Industry": "Major Pharmaceuticals"
+  },
+  "AGNC": {
+    "Name": "AGNC Investment Corp.",
+    "Sector": "Consumer Services",
+    "Industry": "Real Estate Investment Trusts"
+  },
+  "AIMT": {
+    "Name": "Aimmune Therapeutics, Inc.",
+    "Sector": "Health Care",
+    "Industry": "Major Pharmaceuticals"
+  },
+  "ATSG": {
+    "Name": "Air Transport Services Group, Inc",
+    "Sector": "Transportation",
+    "Industry": "Air Freight/Delivery Services"
+  },
+  "AKAM": {
+    "Name": "Akamai Technologies, Inc.",
+    "Sector": "Miscellaneous",
+    "Industry": "Business Services"
+  },
+  "AKCA": {
+    "Name": "Akcea Therapeutics, Inc.",
+    "Sector": "Health Care",
+    "Industry": "Major Pharmaceuticals"
+  },
+  "AKBA": {
+    "Name": "Akebia Therapeutics, Inc.",
+    "Sector": "Health Care",
+    "Industry": "Major Pharmaceuticals"
+  },
+  "ALRM": {
+    "Name": "Alarm.com Holdings, Inc.",
+    "Sector": "Technology",
+    "Industry": "Computer Software: Prepackaged Software"
+  },
+  "ALEC": {
+    "Name": "Alector, Inc.",
+    "Sector": "Health Care",
+    "Industry": "Biotechnology: Biological Products (No Diagnostic Substances)"
+  },
+  "ALXN": {
+    "Name": "Alexion Pharmaceuticals, Inc.",
+    "Sector": "Health Care",
+    "Industry": "Major Pharmaceuticals"
+  },
+  "ALGN": {
+    "Name": "Align Technology, Inc.",
+    "Sector": "Health Care",
+    "Industry": "Industrial Specialties"
+  },
+  "ALKS": {
+    "Name": "Alkermes plc",
+    "Sector": "Health Care",
+    "Industry": "Major Pharmaceuticals"
+  },
+  "ALLK": {
+    "Name": "Allakos Inc.",
+    "Sector": "Health Care",
+    "Industry": "Major Pharmaceuticals"
+  },
+  "ALGT": {
+    "Name": "Allegiant Travel Company",
+    "Sector": "Transportation",
+    "Industry": "Air Freight/Delivery Services"
+  },
+  "LNT": {
+    "Name": "Alliant Energy Corporation",
+    "Sector": "Public Utilities",
+    "Industry": "Power Generation"
+  },
+  "ALLO": {
+    "Name": "Allogene Therapeutics, Inc.",
+    "Sector": "Health Care",
+    "Industry": "Biotechnology: Biological Products (No Diagnostic Substances)"
+  },
+  "ALNY": {
+    "Name": "Alnylam Pharmaceuticals, Inc.",
+    "Sector": "Health Care",
+    "Industry": "Major Pharmaceuticals"
+  },
+  "GOOG": {
+    "Name": "Alphabet Inc.",
+    "Sector": "Technology",
+    "Industry": "Computer Software: Programming, Data Processing"
+  },
+  "GOOGL": {
+    "Name": "Alphabet Inc.",
+    "Sector": "Technology",
+    "Industry": "Computer Software: Programming, Data Processing"
+  },
+  "ALTR": {
+    "Name": "Altair Engineering Inc.",
+    "Sector": "Technology",
+    "Industry": "Computer Software: Prepackaged Software"
+  },
+  "AIMC": {
+    "Name": "Altra Industrial Motion Corp.",
+    "Sector": "Capital Goods",
+    "Industry": "Industrial Machinery/Components"
+  },
+  "AMRN": {
+    "Name": "Amarin Corporation plc",
+    "Sector": "Health Care",
+    "Industry": "Major Pharmaceuticals"
+  },
+  "AMZN": {
+    "Name": "Amazon.com, Inc.",
+    "Sector": "Consumer Services",
+    "Industry": "Catalog/Specialty Distribution"
+  },
+  "AMBA": {
+    "Name": "Ambarella, Inc.",
+    "Sector": "Technology",
+    "Industry": "Semiconductors"
+  },
+  "AMCX": {
+    "Name": "AMC Networks Inc.",
+    "Sector": "Consumer Services",
+    "Industry": "Television Services"
+  },
+  "DOX": {
+    "Name": "Amdocs Limited",
+    "Sector": "Technology",
+    "Industry": "EDP Services"
+  },
+  "AMED": {
+    "Name": "Amedisys Inc",
+    "Sector": "Health Care",
+    "Industry": "Medical/Nursing Services"
+  },
+  "UHAL": {
+    "Name": "Amerco",
+    "Sector": "Consumer Services",
+    "Industry": "Rental/Leasing Companies"
+  },
+  "AMOV": {
+    "Name": "America Movil, S.A.B. de C.V.",
+    "Sector": "Public Utilities",
+    "Industry": "Telecommunications Equipment"
+  },
+  "AAL": {
+    "Name": "American Airlines Group, Inc.",
+    "Sector": "Transportation",
+    "Industry": "Air Freight/Delivery Services"
+  },
+  "ANAT": {
+    "Name": "American National Insurance Company",
+    "Sector": "Finance",
+    "Industry": "Life Insurance"
+  },
+  "AMWD": {
+    "Name": "American Woodmark Corporation",
+    "Sector": "Basic Industries",
+    "Industry": "Forest Products"
+  },
+  "ABCB": {
+    "Name": "Ameris Bancorp",
+    "Sector": "Finance",
+    "Industry": "Major Banks"
+  },
+  "AMSF": {
+    "Name": "AMERISAFE, Inc.",
+    "Sector": "Finance",
+    "Industry": "Property-Casualty Insurers"
+  },
+  "AMGN": {
+    "Name": "Amgen Inc.",
+    "Sector": "Health Care",
+    "Industry": "Biotechnology: Biological Products (No Diagnostic Substances)"
+  },
+  "FOLD": {
+    "Name": "Amicus Therapeutics, Inc.",
+    "Sector": "Health Care",
+    "Industry": "Major Pharmaceuticals"
+  },
+  "AMKR": {
+    "Name": "Amkor Technology, Inc.",
+    "Sector": "Technology",
+    "Industry": "Semiconductors"
+  },
+  "ADI": {
+    "Name": "Analog Devices, Inc.",
+    "Sector": "Technology",
+    "Industry": "Semiconductors"
+  },
+  "ANGI": {
+    "Name": "ANGI Homeservices Inc.",
+    "Sector": "Consumer Services",
+    "Industry": "Advertising"
+  },
+  "ANSS": {
+    "Name": "ANSYS, Inc.",
+    "Sector": "Technology",
+    "Industry": "Computer Software: Prepackaged Software"
+  },
+  "APA": {
+    "Name": "Apache Corporation",
+    "Sector": "Energy",
+    "Industry": "Oil & Gas Production"
+  },
+  "APLS": {
+    "Name": "Apellis Pharmaceuticals, Inc.",
+    "Sector": "Health Care",
+    "Industry": "Major Pharmaceuticals"
+  },
+  "APHA": {
+    "Name": "Aphria Inc.",
+    "Sector": "Consumer Durables",
+    "Industry": "Specialty Chemicals"
+  },
+  "APPF": {
+    "Name": "AppFolio, Inc.",
+    "Sector": "Technology",
+    "Industry": "Computer Software: Prepackaged Software"
+  },
+  "APPN": {
+    "Name": "Appian Corporation",
+    "Sector": "Technology",
+    "Industry": "Computer Software: Prepackaged Software"
+  },
+  "AAPL": {
+    "Name": "Apple Inc.",
+    "Sector": "Technology",
+    "Industry": "Computer Manufacturing"
+  },
+  "AMAT": {
+    "Name": "Applied Materials, Inc.",
+    "Sector": "Technology",
+    "Industry": "Semiconductors"
+  },
+  "ACGL": {
+    "Name": "Arch Capital Group Ltd.",
+    "Sector": "Finance",
+    "Industry": "Property-Casualty Insurers"
+  },
+  "ARCE": {
+    "Name": "Arco Platform Limited",
+    "Sector": "Consumer Services",
+    "Industry": "Other Consumer Services"
+  },
+  "ARNA": {
+    "Name": "Arena Pharmaceuticals, Inc.",
+    "Sector": "Health Care",
+    "Industry": "Major Pharmaceuticals"
+  },
+  "ARCC": {
+    "Name": "Ares Capital Corporation",
+    "Sector": "n/a",
+    "Industry": "n/a"
+  },
+  "ARGX": {
+    "Name": "argenx SE",
+    "Sector": "Health Care",
+    "Industry": "Biotechnology: Biological Products (No Diagnostic Substances)"
+  },
+  "ARWR": {
+    "Name": "Arrowhead Pharmaceuticals, Inc.",
+    "Sector": "Health Care",
+    "Industry": "Major Pharmaceuticals"
+  },
+  "ARVN": {
+    "Name": "Arvinas, Inc.",
+    "Sector": "Health Care",
+    "Industry": "Major Pharmaceuticals"
+  },
+  "ASND": {
+    "Name": "Ascendis Pharma A/S",
+    "Sector": "Health Care",
+    "Industry": "Major Pharmaceuticals"
+  },
+  "ASML": {
+    "Name": "ASML Holding N.V.",
+    "Sector": "Technology",
+    "Industry": "Industrial Machinery/Components"
+  },
+  "AZPN": {
+    "Name": "Aspen Technology, Inc.",
+    "Sector": "Technology",
+    "Industry": "EDP Services"
+  },
+  "ATNX": {
+    "Name": "Athenex, Inc.",
+    "Sector": "Health Care",
+    "Industry": "Major Pharmaceuticals"
+  },
+  "AUB": {
+    "Name": "Atlantic Union Bankshares Corporation",
+    "Sector": "Finance",
+    "Industry": "Major Banks"
+  },
+  "AY": {
+    "Name": "Atlantica Sustainable Infrastructure plc",
+    "Sector": "Public Utilities",
+    "Industry": "Electric Utilities: Central"
+  },
+  "AAWW": {
+    "Name": "Atlas Air Worldwide Holdings",
+    "Sector": "Transportation",
+    "Industry": "Transportation Services"
+  },
+  "TEAM": {
+    "Name": "Atlassian Corporation Plc",
+    "Sector": "Technology",
+    "Industry": "Computer Software: Prepackaged Software"
+  },
+  "ATRC": {
+    "Name": "AtriCure, Inc.",
+    "Sector": "Health Care",
+    "Industry": "Medical/Dental Instruments"
+  },
+  "ATRI": {
+    "Name": "Atrion Corporation",
+    "Sector": "Health Care",
+    "Industry": "Medical/Dental Instruments"
+  },
+  "AUPH": {
+    "Name": "Aurinia Pharmaceuticals Inc",
+    "Sector": "Health Care",
+    "Industry": "Major Pharmaceuticals"
+  },
+  "ADSK": {
+    "Name": "Autodesk, Inc.",
+    "Sector": "Technology",
+    "Industry": "Computer Software: Prepackaged Software"
+  },
+  "ADP": {
+    "Name": "Automatic Data Processing, Inc.",
+    "Sector": "Technology",
+    "Industry": "EDP Services"
+  },
+  "CAR": {
+    "Name": "Avis Budget Group, Inc.",
+    "Sector": "Consumer Services",
+    "Industry": "Rental/Leasing Companies"
+  },
+  "AVT": {
+    "Name": "Avnet, Inc.",
+    "Sector": "Technology",
+    "Industry": "Electronic Components"
+  },
+  "AAXN": {
+    "Name": "Axon Enterprise, Inc.",
+    "Sector": "Capital Goods",
+    "Industry": "Ordnance And Accessories"
+  },
+  "AXNX": {
+    "Name": "Axonics Modulation Technologies, Inc.",
+    "Sector": "Health Care",
+    "Industry": "Medical/Dental Instruments"
+  },
+  "AXSM": {
+    "Name": "Axsome Therapeutics, Inc.",
+    "Sector": "Health Care",
+    "Industry": "Major Pharmaceuticals"
+  },
+  "BIDU": {
+    "Name": "Baidu, Inc.",
+    "Sector": "Technology",
+    "Industry": "Computer Software: Programming, Data Processing"
+  },
+  "BCPC": {
+    "Name": "Balchem Corporation",
+    "Sector": "Basic Industries",
+    "Industry": "Major Chemicals"
+  },
+  "BLDP": {
+    "Name": "Ballard Power Systems, Inc.",
+    "Sector": "Energy",
+    "Industry": "Industrial Machinery/Components"
+  },
+  "BANF": {
+    "Name": "BancFirst Corporation",
+    "Sector": "Finance",
+    "Industry": "Major Banks"
+  },
+  "BAND": {
+    "Name": "Bandwidth Inc.",
+    "Sector": "Technology",
+    "Industry": "Computer Software: Prepackaged Software"
+  },
+  "OZK": {
+    "Name": "Bank OZK",
+    "Sector": "Finance",
+    "Industry": "Major Banks"
+  },
+  "BANR": {
+    "Name": "Banner Corporation",
+    "Sector": "Finance",
+    "Industry": "Major Banks"
+  },
+  "BZUN": {
+    "Name": "Baozun Inc.",
+    "Sector": "Consumer Services",
+    "Industry": "Catalog/Specialty Distribution"
+  },
+  "GOLD": {
+    "Name": "Barrick Gold Corporation",
+    "Sector": "Basic Industries",
+    "Industry": "Precious Metals"
+  },
+  "BECN": {
+    "Name": "Beacon Roofing Supply, Inc.",
+    "Sector": "Consumer Services",
+    "Industry": "RETAIL: Building Materials"
+  },
+  "BEAM": {
+    "Name": "Beam Therapeutics Inc.",
+    "Sector": "Health Care",
+    "Industry": "Biotechnology: Biological Products (No Diagnostic Substances)"
+  },
+  "BBBY": {
+    "Name": "Bed Bath & Beyond Inc.",
+    "Sector": "Consumer Services",
+    "Industry": "Home Furnishings"
+  },
+  "BGNE": {
+    "Name": "BeiGene, Ltd.",
+    "Sector": "Health Care",
+    "Industry": "Major Pharmaceuticals"
+  },
+  "BNTC": {
+    "Name": "Benitec Biopharma Inc.",
+    "Sector": "Health Care",
+    "Industry": "Major Pharmaceuticals"
+  },
+  "BYND": {
+    "Name": "Beyond Meat, Inc.",
+    "Sector": "Consumer Non-Durables",
+    "Industry": "Packaged Foods"
+  },
+  "BGCP": {
+    "Name": "BGC Partners, Inc.",
+    "Sector": "Finance",
+    "Industry": "Investment Bankers/Brokers/Service"
+  },
+  "BILI": {
+    "Name": "Bilibili Inc.",
+    "Sector": "Technology",
+    "Industry": "EDP Services"
+  },
+  "BIIB": {
+    "Name": "Biogen Inc.",
+    "Sector": "Health Care",
+    "Industry": "Biotechnology: Biological Products (No Diagnostic Substances)"
+  },
+  "BMRN": {
+    "Name": "BioMarin Pharmaceutical Inc.",
+    "Sector": "Health Care",
+    "Industry": "Major Pharmaceuticals"
+  },
+  "BNTX": {
+    "Name": "BioNTech SE",
+    "Sector": "Health Care",
+    "Industry": "Biotechnology: Biological Products (No Diagnostic Substances)"
+  },
+  "TECH": {
+    "Name": "Bio-Techne Corp",
+    "Sector": "Health Care",
+    "Industry": "Biotechnology: Biological Products (No Diagnostic Substances)"
+  },
+  "BEAT": {
+    "Name": "BioTelemetry, Inc.",
+    "Sector": "Health Care",
+    "Industry": "Medical Specialities"
+  },
+  "BDTX": {
+    "Name": "Black Diamond Therapeutics, Inc.",
+    "Sector": "Health Care",
+    "Industry": "Biotechnology: Biological Products (No Diagnostic Substances)"
+  },
+  "BLKB": {
+    "Name": "Blackbaud, Inc.",
+    "Sector": "Technology",
+    "Industry": "Computer Software: Prepackaged Software"
+  },
+  "BL": {
+    "Name": "BlackLine, Inc.",
+    "Sector": "Technology",
+    "Industry": "Computer Software: Prepackaged Software"
+  },
+  "BLMN": {
+    "Name": "Bloomin&#39; Brands, Inc.",
+    "Sector": "Consumer Services",
+    "Industry": "Restaurants"
+  },
+  "BLUE": {
+    "Name": "bluebird bio, Inc.",
+    "Sector": "Health Care",
+    "Industry": "Biotechnology: Biological Products (No Diagnostic Substances)"
+  },
+  "BPMC": {
+    "Name": "Blueprint Medicines Corporation",
+    "Sector": "Health Care",
+    "Industry": "Major Pharmaceuticals"
+  },
+  "BMCH": {
+    "Name": "BMC Stock Holdings, Inc.",
+    "Sector": "Consumer Services",
+    "Industry": "RETAIL: Building Materials"
+  },
+  "BOKF": {
+    "Name": "BOK Financial Corporation",
+    "Sector": "Finance",
+    "Industry": "Major Banks"
+  },
+  "BKNG": {
+    "Name": "Booking Holdings Inc.",
+    "Sector": "Consumer Services",
+    "Industry": "Transportation Services"
+  },
+  "EPAY": {
+    "Name": "Bottomline Technologies, Inc.",
+    "Sector": "Technology",
+    "Industry": "Computer Software: Prepackaged Software"
+  },
+  "BBIO": {
+    "Name": "BridgeBio Pharma, Inc.",
+    "Sector": "Health Care",
+    "Industry": "Major Pharmaceuticals"
+  },
+  "BHF": {
+    "Name": "Brighthouse Financial, Inc.",
+    "Sector": "Finance",
+    "Industry": "Life Insurance"
+  },
+  "AVGO": {
+    "Name": "Broadcom Inc.",
+    "Sector": "Technology",
+    "Industry": "Semiconductors"
+  },
+  "BROG": {
+    "Name": "Brooge Energy Limited ",
+    "Sector": "Energy",
+    "Industry": "Integrated oil Companies"
+  },
+  "BPY": {
+    "Name": "Brookfield Property Partners L.P.",
+    "Sector": "Finance",
+    "Industry": "Real Estate"
+  },
+  "BRKS": {
+    "Name": "Brooks Automation, Inc.",
+    "Sector": "Technology",
+    "Industry": "Industrial Machinery/Components"
+  },
+  "DOOO": {
+    "Name": "BRP Inc.",
+    "Sector": "Capital Goods",
+    "Industry": "Industrial Specialties"
+  },
+  "BRKR": {
+    "Name": "Bruker Corporation",
+    "Sector": "Capital Goods",
+    "Industry": "Biotechnology: Laboratory Analytical Instruments"
+  },
+  "BLDR": {
+    "Name": "Builders FirstSource, Inc.",
+    "Sector": "Consumer Services",
+    "Industry": "RETAIL: Building Materials"
+  },
+  "BNR": {
+    "Name": "Burning Rock Biotech Limited",
+    "Sector": "n/a",
+    "Industry": "n/a"
+  },
+  "CHRW": {
+    "Name": "C.H. Robinson Worldwide, Inc.",
+    "Sector": "Transportation",
+    "Industry": "Oil Refining/Marketing"
+  },
+  "CCMP": {
+    "Name": "Cabot Microelectronics Corporation",
+    "Sector": "Technology",
+    "Industry": "Semiconductors"
+  },
+  "CDNS": {
+    "Name": "Cadence Design Systems, Inc.",
+    "Sector": "Technology",
+    "Industry": "Computer Software: Prepackaged Software"
+  },
+  "CZR": {
+    "Name": "Caesars Entertainment Corporation",
+    "Sector": "Consumer Services",
+    "Industry": "Hotels/Resorts"
+  },
+  "CSQ": {
+    "Name": "Calamos Strategic Total Return Fund",
+    "Sector": "n/a",
+    "Industry": "n/a"
+  },
+  "CVGW": {
+    "Name": "Calavo Growers, Inc.",
+    "Sector": "Consumer Non-Durables",
+    "Industry": "Farming/Seeds/Milling"
+  },
+  "CALM": {
+    "Name": "Cal-Maine Foods, Inc.",
+    "Sector": "Consumer Non-Durables",
+    "Industry": "Farming/Seeds/Milling"
+  },
+  "CSIQ": {
+    "Name": "Canadian Solar Inc.",
+    "Sector": "Technology",
+    "Industry": "Semiconductors"
+  },
+  "CFFN": {
+    "Name": "Capitol Federal Financial, Inc.",
+    "Sector": "Finance",
+    "Industry": "Savings Institutions"
+  },
+  "CSII": {
+    "Name": "Cardiovascular Systems, Inc.",
+    "Sector": "Health Care",
+    "Industry": "Medical/Dental Instruments"
+  },
+  "CDLX": {
+    "Name": "Cardlytics, Inc.",
+    "Sector": "Technology",
+    "Industry": "Computer Software: Programming, Data Processing"
+  },
+  "CATM": {
+    "Name": "Cardtronics plc",
+    "Sector": "Miscellaneous",
+    "Industry": "Business Services"
+  },
+  "CDNA": {
+    "Name": "CareDx, Inc.",
+    "Sector": "Health Care",
+    "Industry": "Medical Specialities"
+  },
+  "CTRE": {
+    "Name": "CareTrust REIT, Inc.",
+    "Sector": "Consumer Services",
+    "Industry": "Real Estate Investment Trusts"
+  },
+  "CARG": {
+    "Name": "CarGurus, Inc.",
+    "Sector": "Technology",
+    "Industry": "EDP Services"
+  },
+  "CWST": {
+    "Name": "Casella Waste Systems, Inc.",
+    "Sector": "Public Utilities",
+    "Industry": "Environmental Services"
+  },
+  "CASY": {
+    "Name": "Caseys General Stores, Inc.",
+    "Sector": "Consumer Durables",
+    "Industry": "Automotive Aftermarket"
+  },
+  "CATY": {
+    "Name": "Cathay General Bancorp",
+    "Sector": "Finance",
+    "Industry": "Major Banks"
+  },
+  "CVCO": {
+    "Name": "Cavco Industries, Inc.",
+    "Sector": "Basic Industries",
+    "Industry": "Homebuilding"
+  },
+  "CBOE": {
+    "Name": "Cboe Global Markets, Inc.",
+    "Sector": "n/a",
+    "Industry": "n/a"
+  },
+  "CDK": {
+    "Name": "CDK Global, Inc.",
+    "Sector": "Miscellaneous",
+    "Industry": "Business Services"
+  },
+  "CDW": {
+    "Name": "CDW Corporation",
+    "Sector": "Consumer Services",
+    "Industry": "Catalog/Specialty Distribution"
+  },
+  "CENT": {
+    "Name": "Central Garden & Pet Company",
+    "Sector": "Consumer Durables",
+    "Industry": "Consumer Specialties"
+  },
+  "CENTA": {
+    "Name": "Central Garden & Pet Company",
+    "Sector": "Consumer Durables",
+    "Industry": "Consumer Specialties"
+  },
+  "CRNC": {
+    "Name": "Cerence Inc.",
+    "Sector": "Technology",
+    "Industry": "Computer Software: Prepackaged Software"
+  },
+  "CERN": {
+    "Name": "Cerner Corporation",
+    "Sector": "Technology",
+    "Industry": "EDP Services"
+  },
+  "CHNG": {
+    "Name": "Change Healthcare Inc.",
+    "Sector": "Technology",
+    "Industry": "EDP Services"
+  },
+  "GTLS": {
+    "Name": "Chart Industries, Inc.",
+    "Sector": "Capital Goods",
+    "Industry": "Metal Fabrications"
+  },
+  "CHTR": {
+    "Name": "Charter Communications, Inc.",
+    "Sector": "Consumer Services",
+    "Industry": "Television Services"
+  },
+  "CHKP": {
+    "Name": "Check Point Software Technologies Ltd.",
+    "Sector": "Technology",
+    "Industry": "Computer Software: Prepackaged Software"
+  },
+  "CCXI": {
+    "Name": "ChemoCentryx, Inc.",
+    "Sector": "Health Care",
+    "Industry": "Major Pharmaceuticals"
+  },
+  "CBPO": {
+    "Name": "China Biologic Products Holdings, Inc.",
+    "Sector": "Health Care",
+    "Industry": "Biotechnology: Biological Products (No Diagnostic Substances)"
+  },
+  "CHDN": {
+    "Name": "Churchill Downs, Incorporated",
+    "Sector": "Consumer Services",
+    "Industry": "Services-Misc. Amusement & Recreation"
+  },
+  "CMPR": {
+    "Name": "Cimpress PLC",
+    "Sector": "Miscellaneous",
+    "Industry": "Publishing"
+  },
+  "CINF": {
+    "Name": "Cincinnati Financial Corporation",
+    "Sector": "Finance",
+    "Industry": "Property-Casualty Insurers"
+  },
+  "CTAS": {
+    "Name": "Cintas Corporation",
+    "Sector": "Consumer Non-Durables",
+    "Industry": "Apparel"
+  },
+  "CRUS": {
+    "Name": "Cirrus Logic, Inc.",
+    "Sector": "Technology",
+    "Industry": "Semiconductors"
+  },
+  "CSCO": {
+    "Name": "Cisco Systems, Inc.",
+    "Sector": "Technology",
+    "Industry": "Computer Communications Equipment"
+  },
+  "CTXS": {
+    "Name": "Citrix Systems, Inc.",
+    "Sector": "Technology",
+    "Industry": "Computer Software: Prepackaged Software"
+  },
+  "CHCO": {
+    "Name": "City Holding Company",
+    "Sector": "Finance",
+    "Industry": "Major Banks"
+  },
+  "CME": {
+    "Name": "CME Group Inc.",
+    "Sector": "Finance",
+    "Industry": "Investment Bankers/Brokers/Service"
+  },
+  "COKE": {
+    "Name": "Coca-Cola Consolidated, Inc.",
+    "Sector": "Consumer Non-Durables",
+    "Industry": "Beverages (Production/Distribution)"
+  },
+  "CCOI": {
+    "Name": "Cogent Communications Holdings, Inc.",
+    "Sector": "Consumer Services",
+    "Industry": "Telecommunications Equipment"
+  },
+  "CGNX": {
+    "Name": "Cognex Corporation",
+    "Sector": "Capital Goods",
+    "Industry": "Industrial Machinery/Components"
+  },
+  "CTSH": {
+    "Name": "Cognizant Technology Solutions Corporation",
+    "Sector": "Technology",
+    "Industry": "EDP Services"
+  },
+  "COHR": {
+    "Name": "Coherent, Inc.",
+    "Sector": "Capital Goods",
+    "Industry": "Biotechnology: Laboratory Analytical Instruments"
+  },
+  "CHRS": {
+    "Name": "Coherus BioSciences, Inc.",
+    "Sector": "Health Care",
+    "Industry": "Biotechnology: Biological Products (No Diagnostic Substances)"
+  },
+  "CIGI": {
+    "Name": "Colliers International Group Inc. ",
+    "Sector": "Finance",
+    "Industry": "Real Estate"
+  },
+  "COLB": {
+    "Name": "Columbia Banking System, Inc.",
+    "Sector": "Finance",
+    "Industry": "Major Banks"
+  },
+  "CLBK": {
+    "Name": "Columbia Financial, Inc.",
+    "Sector": "Finance",
+    "Industry": "Savings Institutions"
+  },
+  "COLM": {
+    "Name": "Columbia Sportswear Company",
+    "Sector": "Consumer Non-Durables",
+    "Industry": "Apparel"
+  },
+  "CMCSA": {
+    "Name": "Comcast Corporation",
+    "Sector": "Consumer Services",
+    "Industry": "Television Services"
+  },
+  "CBSH": {
+    "Name": "Commerce Bancshares, Inc.",
+    "Sector": "Finance",
+    "Industry": "Major Banks"
+  },
+  "COMM": {
+    "Name": "CommScope Holding Company, Inc.",
+    "Sector": "Technology",
+    "Industry": "Radio And Television Broadcasting And Communications Equipment"
+  },
+  "CVLT": {
+    "Name": "Commvault Systems, Inc.",
+    "Sector": "Technology",
+    "Industry": "Computer Software: Prepackaged Software"
+  },
+  "CGEN": {
+    "Name": "Compugen Ltd.",
+    "Sector": "Health Care",
+    "Industry": "Biotechnology: Biological Products (No Diagnostic Substances)"
+  },
+  "CNMD": {
+    "Name": "CONMED Corporation",
+    "Sector": "Health Care",
+    "Industry": "Biotechnology: Electromedical & Electrotherapeutic Apparatus"
+  },
+  "CNST": {
+    "Name": "Constellation Pharmaceuticals, Inc.",
+    "Sector": "Health Care",
+    "Industry": "Major Pharmaceuticals"
+  },
+  "CPRT": {
+    "Name": "Copart, Inc.",
+    "Sector": "Consumer Durables",
+    "Industry": "Automotive Aftermarket"
+  },
+  "CORT": {
+    "Name": "Corcept Therapeutics Incorporated",
+    "Sector": "Health Care",
+    "Industry": "Major Pharmaceuticals"
+  },
+  "CORE": {
+    "Name": "Core-Mark Holding Company, Inc.",
+    "Sector": "Consumer Non-Durables",
+    "Industry": "Food Distributors"
+  },
+  "CSOD": {
+    "Name": "Cornerstone OnDemand, Inc.",
+    "Sector": "Technology",
+    "Industry": "Computer Software: Prepackaged Software"
+  },
+  "CRTX": {
+    "Name": "Cortexyme, Inc.",
+    "Sector": "Health Care",
+    "Industry": "Biotechnology: Biological Products (No Diagnostic Substances)"
+  },
+  "CRVL": {
+    "Name": "CorVel Corp.",
+    "Sector": "Finance",
+    "Industry": "Specialty Insurers"
+  },
+  "CSGP": {
+    "Name": "CoStar Group, Inc.",
+    "Sector": "Miscellaneous",
+    "Industry": "Business Services"
+  },
+  "COST": {
+    "Name": "Costco Wholesale Corporation",
+    "Sector": "Consumer Services",
+    "Industry": "Department/Specialty Retail Stores"
+  },
+  "COUP": {
+    "Name": "Coupa Software Incorporated",
+    "Sector": "Technology",
+    "Industry": "Computer Software: Prepackaged Software"
+  },
+  "CVET": {
+    "Name": "Covetrus, Inc.",
+    "Sector": "Health Care",
+    "Industry": "Medical/Nursing Services"
+  },
+  "CBRL": {
+    "Name": "Cracker Barrel Old Country Store, Inc.",
+    "Sector": "Consumer Services",
+    "Industry": "Restaurants"
+  },
+  "CACC": {
+    "Name": "Credit Acceptance Corporation",
+    "Sector": "Finance",
+    "Industry": "Finance: Consumer Services"
+  },
+  "CREE": {
+    "Name": "Cree, Inc.",
+    "Sector": "Technology",
+    "Industry": "Semiconductors"
+  },
+  "CRSP": {
+    "Name": "CRISPR Therapeutics AG",
+    "Sector": "Health Care",
+    "Industry": "Biotechnology: Biological Products (No Diagnostic Substances)"
+  },
+  "CROX": {
+    "Name": "Crocs, Inc.",
+    "Sector": "Consumer Non-Durables",
+    "Industry": "Shoe Manufacturing"
+  },
+  "CRON": {
+    "Name": "Cronos Group Inc.",
+    "Sector": "Consumer Durables",
+    "Industry": "Specialty Chemicals"
+  },
+  "CRWD": {
+    "Name": "CrowdStrike Holdings, Inc.",
+    "Sector": "Technology",
+    "Industry": "Computer Software: Prepackaged Software"
+  },
+  "CSGS": {
+    "Name": "CSG Systems International, Inc.",
+    "Sector": "Technology",
+    "Industry": "EDP Services"
+  },
+  "CSWI": {
+    "Name": "CSW Industrials, Inc.",
+    "Sector": "Basic Industries",
+    "Industry": "Home Furnishings"
+  },
+  "CSX": {
+    "Name": "CSX Corporation",
+    "Sector": "Transportation",
+    "Industry": "Railroads"
+  },
+  "CVBF": {
+    "Name": "CVB Financial Corporation",
+    "Sector": "Finance",
+    "Industry": "Major Banks"
+  },
+  "CYBR": {
+    "Name": "CyberArk Software Ltd.",
+    "Sector": "Technology",
+    "Industry": "Computer Software: Prepackaged Software"
+  },
+  "CONE": {
+    "Name": "CyrusOne Inc",
+    "Sector": "Consumer Services",
+    "Industry": "Real Estate Investment Trusts"
+  },
+  "CYTK": {
+    "Name": "Cytokinetics, Incorporated",
+    "Sector": "Health Care",
+    "Industry": "Major Pharmaceuticals"
+  },
+  "DADA": {
+    "Name": "Dada Nexus Limited",
+    "Sector": "Technology",
+    "Industry": "Computer Software: Programming, Data Processing"
+  },
+  "DDOG": {
+    "Name": "Datadog, Inc.",
+    "Sector": "Technology",
+    "Industry": "Computer Software: Prepackaged Software"
+  },
+  "DCPH": {
+    "Name": "Deciphera Pharmaceuticals, Inc.",
+    "Sector": "Health Care",
+    "Industry": "Major Pharmaceuticals"
+  },
+  "DNLI": {
+    "Name": "Denali Therapeutics Inc.",
+    "Sector": "Health Care",
+    "Industry": "Biotechnology: Biological Products (No Diagnostic Substances)"
+  },
+  "XRAY": {
+    "Name": "DENTSPLY SIRONA Inc.",
+    "Sector": "Health Care",
+    "Industry": "Medical/Dental Instruments"
+  },
+  "DXCM": {
+    "Name": "DexCom, Inc.",
+    "Sector": "Health Care",
+    "Industry": "Medical/Dental Instruments"
+  },
+  "FANG": {
+    "Name": "Diamondback Energy, Inc.",
+    "Sector": "Energy",
+    "Industry": "Oil & Gas Production"
+  },
+  "DRNA": {
+    "Name": "Dicerna Pharmaceuticals, Inc.",
+    "Sector": "Health Care",
+    "Industry": "Major Pharmaceuticals"
+  },
+  "DIOD": {
+    "Name": "Diodes Incorporated",
+    "Sector": "Technology",
+    "Industry": "Semiconductors"
+  },
+  "DISCA": {
+    "Name": "Discovery, Inc.",
+    "Sector": "Consumer Services",
+    "Industry": "Television Services"
+  },
+  "DISCB": {
+    "Name": "Discovery, Inc.",
+    "Sector": "Consumer Services",
+    "Industry": "Television Services"
+  },
+  "DISCK": {
+    "Name": "Discovery, Inc.",
+    "Sector": "Consumer Services",
+    "Industry": "Television Services"
+  },
+  "DISH": {
+    "Name": "DISH Network Corporation",
+    "Sector": "Consumer Services",
+    "Industry": "Television Services"
+  },
+  "DHC": {
+    "Name": "Diversified Healthcare Trust ",
+    "Sector": "Consumer Services",
+    "Industry": "Real Estate Investment Trusts"
+  },
+  "DOCU": {
+    "Name": "DocuSign, Inc.",
+    "Sector": "Technology",
+    "Industry": "Computer Software: Prepackaged Software"
+  },
+  "DLTR": {
+    "Name": "Dollar Tree, Inc.",
+    "Sector": "Consumer Services",
+    "Industry": "Department/Specialty Retail Stores"
+  },
+  "DORM": {
+    "Name": "Dorman Products, Inc.",
+    "Sector": "Capital Goods",
+    "Industry": "Auto Parts:O.E.M."
+  },
+  "DOYU": {
+    "Name": "DouYu International Holdings Limited",
+    "Sector": "Technology",
+    "Industry": "Computer Software: Programming, Data Processing"
+  },
+  "DKNG": {
+    "Name": "DraftKings Inc.",
+    "Sector": "Consumer Services",
+    "Industry": "Services-Misc. Amusement & Recreation"
+  },
+  "DBX": {
+    "Name": "Dropbox, Inc.",
+    "Sector": "Technology",
+    "Industry": "Computer Software: Prepackaged Software"
+  },
+  "DNKN": {
+    "Name": "Dunkin&#39; Brands Group, Inc.",
+    "Sector": "Consumer Services",
+    "Industry": "Restaurants"
+  },
+  "ETFC": {
+    "Name": "E*TRADE Financial Corporation",
+    "Sector": "Finance",
+    "Industry": "Savings Institutions"
+  },
+  "EGBN": {
+    "Name": "Eagle Bancorp, Inc.",
+    "Sector": "Finance",
+    "Industry": "Major Banks"
+  },
+  "EWBC": {
+    "Name": "East West Bancorp, Inc.",
+    "Sector": "Finance",
+    "Industry": "Major Banks"
+  },
+  "EBAY": {
+    "Name": "eBay Inc.",
+    "Sector": "Miscellaneous",
+    "Industry": "Business Services"
+  },
+  "SATS": {
+    "Name": "EchoStar Corporation",
+    "Sector": "Technology",
+    "Industry": "Radio And Television Broadcasting And Communications Equipment"
+  },
+  "EDIT": {
+    "Name": "Editas Medicine, Inc.",
+    "Sector": "Health Care",
+    "Industry": "Biotechnology: Biological Products (No Diagnostic Substances)"
+  },
+  "EHTH": {
+    "Name": "eHealth, Inc.",
+    "Sector": "Finance",
+    "Industry": "Specialty Insurers"
+  },
+  "EIDX": {
+    "Name": "Eidos Therapeutics, Inc.",
+    "Sector": "Health Care",
+    "Industry": "Major Pharmaceuticals"
+  },
+  "ESLT": {
+    "Name": "Elbit Systems Ltd.",
+    "Sector": "Capital Goods",
+    "Industry": "Military/Government/Technical"
+  },
+  "ERI": {
+    "Name": "Eldorado Resorts, Inc.",
+    "Sector": "Consumer Services",
+    "Industry": "Hotels/Resorts"
+  },
+  "EA": {
+    "Name": "Electronic Arts Inc.",
+    "Sector": "Technology",
+    "Industry": "Computer Software: Prepackaged Software"
+  },
+  "ECPG": {
+    "Name": "Encore Capital Group Inc",
+    "Sector": "Finance",
+    "Industry": "Finance Companies"
+  },
+  "ENPH": {
+    "Name": "Enphase Energy, Inc.",
+    "Sector": "Technology",
+    "Industry": "Semiconductors"
+  },
+  "ESGR": {
+    "Name": "Enstar Group Limited",
+    "Sector": "Finance",
+    "Industry": "Property-Casualty Insurers"
+  },
+  "ENTG": {
+    "Name": "Entegris, Inc.",
+    "Sector": "Consumer Non-Durables",
+    "Industry": "Plastic Products"
+  },
+  "EPZM": {
+    "Name": "Epizyme, Inc.",
+    "Sector": "Health Care",
+    "Industry": "Major Pharmaceuticals"
+  },
+  "EQIX": {
+    "Name": "Equinix, Inc.",
+    "Sector": "Consumer Services",
+    "Industry": "Real Estate Investment Trusts"
+  },
+  "ERIC": {
+    "Name": "Ericsson",
+    "Sector": "Technology",
+    "Industry": "Radio And Television Broadcasting And Communications Equipment"
+  },
+  "ERIE": {
+    "Name": "Erie Indemnity Company",
+    "Sector": "Finance",
+    "Industry": "Specialty Insurers"
+  },
+  "ESPR": {
+    "Name": "Esperion Therapeutics, Inc.",
+    "Sector": "Health Care",
+    "Industry": "Major Pharmaceuticals"
+  },
+  "ETSY": {
+    "Name": "Etsy, Inc.",
+    "Sector": "Miscellaneous",
+    "Industry": "Business Services"
+  },
+  "EEFT": {
+    "Name": "Euronet Worldwide, Inc.",
+    "Sector": "Finance",
+    "Industry": "Investment Bankers/Brokers/Service"
+  },
+  "EVBG": {
+    "Name": "Everbridge, Inc.",
+    "Sector": "Technology",
+    "Industry": "Computer Software: Prepackaged Software"
+  },
+  "EVER": {
+    "Name": "EverQuote, Inc.",
+    "Sector": "Technology",
+    "Industry": "Computer Software: Programming, Data Processing"
+  },
+  "EVOP": {
+    "Name": "EVO Payments, Inc.",
+    "Sector": "Miscellaneous",
+    "Industry": "Business Services"
+  },
+  "EXAS": {
+    "Name": "Exact Sciences Corporation",
+    "Sector": "Health Care",
+    "Industry": "Biotechnology: Commercial Physical & Biological Resarch"
+  },
+  "EXEL": {
+    "Name": "Exelixis, Inc.",
+    "Sector": "Health Care",
+    "Industry": "Biotechnology: Commercial Physical & Biological Resarch"
+  },
+  "EXC": {
+    "Name": "Exelon Corporation",
+    "Sector": "Public Utilities",
+    "Industry": "Power Generation"
+  },
+  "EXLS": {
+    "Name": "ExlService Holdings, Inc.",
+    "Sector": "Miscellaneous",
+    "Industry": "Business Services"
+  },
+  "EXPE": {
+    "Name": "Expedia Group, Inc.",
+    "Sector": "Consumer Services",
+    "Industry": "Transportation Services"
+  },
+  "EXPD": {
+    "Name": "Expeditors International of Washington, Inc.",
+    "Sector": "Transportation",
+    "Industry": "Oil Refining/Marketing"
+  },
+  "EXPO": {
+    "Name": "Exponent, Inc.",
+    "Sector": "Consumer Services",
+    "Industry": "Professional Services"
+  },
+  "STAY": {
+    "Name": "Extended Stay America, Inc.",
+    "Sector": "Consumer Services",
+    "Industry": "Hotels/Resorts"
+  },
+  "FFIV": {
+    "Name": "F5 Networks, Inc.",
+    "Sector": "Technology",
+    "Industry": "Computer Communications Equipment"
+  },
+  "FB": {
+    "Name": "Facebook, Inc.",
+    "Sector": "Technology",
+    "Industry": "Computer Software: Programming, Data Processing"
+  },
+  "FANH": {
+    "Name": "Fanhua Inc.",
+    "Sector": "Finance",
+    "Industry": "Specialty Insurers"
+  },
+  "FAST": {
+    "Name": "Fastenal Company",
+    "Sector": "Consumer Services",
+    "Industry": "RETAIL: Building Materials"
+  },
+  "FATE": {
+    "Name": "Fate Therapeutics, Inc.",
+    "Sector": "Health Care",
+    "Industry": "Biotechnology: Biological Products (No Diagnostic Substances)"
+  },
+  "FGEN": {
+    "Name": "FibroGen, Inc",
+    "Sector": "Health Care",
+    "Industry": "Major Pharmaceuticals"
+  },
+  "FITB": {
+    "Name": "Fifth Third Bancorp",
+    "Sector": "Finance",
+    "Industry": "Major Banks"
+  },
+  "FEYE": {
+    "Name": "FireEye, Inc.",
+    "Sector": "Technology",
+    "Industry": "Computer peripheral equipment"
+  },
+  "FCNCA": {
+    "Name": "First Citizens BancShares, Inc.",
+    "Sector": "Finance",
+    "Industry": "Major Banks"
+  },
+  "FFBC": {
+    "Name": "First Financial Bancorp.",
+    "Sector": "Finance",
+    "Industry": "Major Banks"
+  },
+  "FFIN": {
+    "Name": "First Financial Bankshares, Inc.",
+    "Sector": "Finance",
+    "Industry": "Major Banks"
+  },
+  "FHB": {
+    "Name": "First Hawaiian, Inc.",
+    "Sector": "Finance",
+    "Industry": "Major Banks"
+  },
+  "FIBK": {
+    "Name": "First Interstate BancSystem, Inc.",
+    "Sector": "Finance",
+    "Industry": "Major Banks"
+  },
+  "FRME": {
+    "Name": "First Merchants Corporation",
+    "Sector": "Finance",
+    "Industry": "Major Banks"
+  },
+  "FMBI": {
+    "Name": "First Midwest Bancorp, Inc.",
+    "Sector": "Finance",
+    "Industry": "Major Banks"
+  },
+  "FSLR": {
+    "Name": "First Solar, Inc.",
+    "Sector": "Technology",
+    "Industry": "Semiconductors"
+  },
+  "FCFS": {
+    "Name": "FirstCash, Inc.",
+    "Sector": "Consumer Services",
+    "Industry": "Other Specialty Stores"
+  },
+  "FSV": {
+    "Name": "FirstService Corporation",
+    "Sector": "Finance",
+    "Industry": "Real Estate"
+  },
+  "FISV": {
+    "Name": "Fiserv, Inc.",
+    "Sector": "Technology",
+    "Industry": "EDP Services"
+  },
+  "FIVE": {
+    "Name": "Five Below, Inc.",
+    "Sector": "Consumer Services",
+    "Industry": "Department/Specialty Retail Stores"
+  },
+  "FIVN": {
+    "Name": "Five9, Inc.",
+    "Sector": "Technology",
+    "Industry": "EDP Services"
+  },
+  "FLEX": {
+    "Name": "Flex Ltd.",
+    "Sector": "Technology",
+    "Industry": "Electrical Products"
+  },
+  "FLIR": {
+    "Name": "FLIR Systems, Inc.",
+    "Sector": "Capital Goods",
+    "Industry": "Industrial Machinery/Components"
+  },
+  "FOCS": {
+    "Name": "Focus Financial Partners Inc.",
+    "Sector": "Finance",
+    "Industry": "Investment Managers"
+  },
+  "FSCT": {
+    "Name": "ForeScout Technologies, Inc.",
+    "Sector": "Technology",
+    "Industry": "Computer peripheral equipment"
+  },
+  "FORM": {
+    "Name": "FormFactor, Inc.",
+    "Sector": "Technology",
+    "Industry": "Semiconductors"
+  },
+  "FORTY": {
+    "Name": "Formula Systems (1985) Ltd.",
+    "Sector": "Technology",
+    "Industry": "EDP Services"
+  },
+  "FTNT": {
+    "Name": "Fortinet, Inc.",
+    "Sector": "Technology",
+    "Industry": "Computer peripheral equipment"
+  },
+  "FWRD": {
+    "Name": "Forward Air Corporation",
+    "Sector": "Transportation",
+    "Industry": "Oil Refining/Marketing"
+  },
+  "FOX": {
+    "Name": "Fox Corporation",
+    "Sector": "Consumer Services",
+    "Industry": "Broadcasting"
+  },
+  "FOXA": {
+    "Name": "Fox Corporation",
+    "Sector": "Consumer Services",
+    "Industry": "Broadcasting"
+  },
+  "FOXF": {
+    "Name": "Fox Factory Holding Corp.",
+    "Sector": "Consumer Non-Durables",
+    "Industry": "Motor Vehicles"
+  },
+  "FELE": {
+    "Name": "Franklin Electric Co., Inc.",
+    "Sector": "Consumer Durables",
+    "Industry": "Metal Fabrications"
+  },
+  "FRHC": {
+    "Name": "Freedom Holding Corp.",
+    "Sector": "Finance",
+    "Industry": "Investment Bankers/Brokers/Service"
+  },
+  "FRPT": {
+    "Name": "Freshpet, Inc.",
+    "Sector": "Consumer Non-Durables",
+    "Industry": "Packaged Foods"
+  },
+  "FTDR": {
+    "Name": "frontdoor, inc.",
+    "Sector": "Finance",
+    "Industry": "Diversified Commercial Services"
+  },
+  "FULT": {
+    "Name": "Fulton Financial Corporation",
+    "Sector": "Finance",
+    "Industry": "Major Banks"
+  },
+  "FUTU": {
+    "Name": "Futu Holdings Limited",
+    "Sector": "Finance",
+    "Industry": "Investment Bankers/Brokers/Service"
+  },
+  "GLPG": {
+    "Name": "Galapagos NV",
+    "Sector": "Health Care",
+    "Industry": "Major Pharmaceuticals"
+  },
+  "GLPI": {
+    "Name": "Gaming and Leisure Properties, Inc.",
+    "Sector": "Consumer Services",
+    "Industry": "Real Estate Investment Trusts"
+  },
+  "GRMN": {
+    "Name": "Garmin Ltd.",
+    "Sector": "Capital Goods",
+    "Industry": "Industrial Machinery/Components"
+  },
+  "GLIBA": {
+    "Name": "GCI Liberty, Inc.",
+    "Sector": "Public Utilities",
+    "Industry": "Telecommunications Equipment"
+  },
+  "GDS": {
+    "Name": "GDS Holdings Limited",
+    "Sector": "Technology",
+    "Industry": "Computer Software: Programming, Data Processing"
+  },
+  "GBIO": {
+    "Name": "Generation Bio Co.",
+    "Sector": "n/a",
+    "Industry": "n/a"
+  },
+  "GMAB": {
+    "Name": "Genmab A/S",
+    "Sector": "Health Care",
+    "Industry": "Major Pharmaceuticals"
+  },
+  "GNTX": {
+    "Name": "Gentex Corporation",
+    "Sector": "Capital Goods",
+    "Industry": "Auto Parts:O.E.M."
+  },
+  "THRM": {
+    "Name": "Gentherm Inc",
+    "Sector": "Capital Goods",
+    "Industry": "Auto Parts:O.E.M."
+  },
+  "ROCK": {
+    "Name": "Gibraltar Industries, Inc.",
+    "Sector": "Capital Goods",
+    "Industry": "Steel/Iron Ore"
+  },
+  "GILD": {
+    "Name": "Gilead Sciences, Inc.",
+    "Sector": "Health Care",
+    "Industry": "Biotechnology: Biological Products (No Diagnostic Substances)"
+  },
+  "GBCI": {
+    "Name": "Glacier Bancorp, Inc.",
+    "Sector": "Finance",
+    "Industry": "Major Banks"
+  },
+  "GBT": {
+    "Name": "Global Blood Therapeutics, Inc.",
+    "Sector": "Health Care",
+    "Industry": "Major Pharmaceuticals"
+  },
+  "GLUU": {
+    "Name": "Glu Mobile Inc.",
+    "Sector": "Technology",
+    "Industry": "EDP Services"
+  },
+  "GBDC": {
+    "Name": "Golub Capital BDC, Inc.",
+    "Sector": "n/a",
+    "Industry": "n/a"
+  },
+  "GSHD": {
+    "Name": "Goosehead Insurance, Inc.",
+    "Sector": "Finance",
+    "Industry": "Specialty Insurers"
+  },
+  "LOPE": {
+    "Name": "Grand Canyon Education, Inc.",
+    "Sector": "Consumer Services",
+    "Industry": "Other Consumer Services"
+  },
+  "GRFS": {
+    "Name": "Grifols, S.A.",
+    "Sector": "Health Care",
+    "Industry": "Major Pharmaceuticals"
+  },
+  "GO": {
+    "Name": "Grocery Outlet Holding Corp.",
+    "Sector": "Consumer Services",
+    "Industry": "Food Chains"
+  },
+  "GRPN": {
+    "Name": "Groupon, Inc.",
+    "Sector": "Technology",
+    "Industry": "Advertising"
+  },
+  "OMAB": {
+    "Name": "Grupo Aeroportuario del Centro Norte S.A.B. de C.V.",
+    "Sector": "Transportation",
+    "Industry": "Aerospace"
+  },
+  "GGAL": {
+    "Name": "Grupo Financiero Galicia S.A.",
+    "Sector": "Finance",
+    "Industry": "Commercial Banks"
+  },
+  "GH": {
+    "Name": "Guardant Health, Inc.",
+    "Sector": "Health Care",
+    "Industry": "Medical Specialities"
+  },
+  "GWPH": {
+    "Name": "GW Pharmaceuticals Plc",
+    "Sector": "Health Care",
+    "Industry": "Major Pharmaceuticals"
+  },
+  "HLG": {
+    "Name": "Hailiang Education Group Inc.",
+    "Sector": "Consumer Services",
+    "Industry": "Other Consumer Services"
+  },
+  "HALO": {
+    "Name": "Halozyme Therapeutics, Inc.",
+    "Sector": "Health Care",
+    "Industry": "Biotechnology: Biological Products (No Diagnostic Substances)"
+  },
+  "HLNE": {
+    "Name": "Hamilton Lane Incorporated",
+    "Sector": "Finance",
+    "Industry": "Investment Managers"
+  },
+  "HWC": {
+    "Name": "Hancock Whitney Corporation",
+    "Sector": "Finance",
+    "Industry": "Major Banks"
+  },
+  "HAS": {
+    "Name": "Hasbro, Inc.",
+    "Sector": "Consumer Non-Durables",
+    "Industry": "Recreational Products/Toys"
+  },
+  "HDS": {
+    "Name": "HD Supply Holdings, Inc.",
+    "Sector": "Consumer Services",
+    "Industry": "Office Equipment/Supplies/Services"
+  },
+  "HHR": {
+    "Name": "HeadHunter Group PLC",
+    "Sector": "Technology",
+    "Industry": "Professional Services"
+  },
+  "HCAT": {
+    "Name": "Health Catalyst, Inc",
+    "Sector": "Technology",
+    "Industry": "Computer Software: Programming, Data Processing"
+  },
+  "HCSG": {
+    "Name": "Healthcare Services Group, Inc.",
+    "Sector": "Health Care",
+    "Industry": "Hospital/Nursing Management"
+  },
+  "HQY": {
+    "Name": "HealthEquity, Inc.",
+    "Sector": "Miscellaneous",
+    "Industry": "Business Services"
+  },
+  "HTLD": {
+    "Name": "Heartland Express, Inc.",
+    "Sector": "Transportation",
+    "Industry": "Trucking Freight/Courier Services"
+  },
+  "HTLF": {
+    "Name": "Heartland Financial USA, Inc.",
+    "Sector": "Finance",
+    "Industry": "Major Banks"
+  },
+  "HELE": {
+    "Name": "Helen of Troy Limited",
+    "Sector": "Consumer Durables",
+    "Industry": "Home Furnishings"
+  },
+  "HLIO": {
+    "Name": "Helios Technologies, Inc.",
+    "Sector": "Capital Goods",
+    "Industry": "Metal Fabrications"
+  },
+  "HSIC": {
+    "Name": "Henry Schein, Inc.",
+    "Sector": "Health Care",
+    "Industry": "Medical Specialities"
+  },
+  "MLHR": {
+    "Name": "Herman Miller, Inc.",
+    "Sector": "Consumer Durables",
+    "Industry": "Office Equipment/Supplies/Services"
+  },
+  "HRTX": {
+    "Name": "Heron Therapeutics, Inc.  ",
+    "Sector": "Health Care",
+    "Industry": "Major Pharmaceuticals"
+  },
+  "HMSY": {
+    "Name": "HMS Holdings Corp",
+    "Sector": "Miscellaneous",
+    "Industry": "Business Services"
+  },
+  "HOLX": {
+    "Name": "Hologic, Inc.",
+    "Sector": "Health Care",
+    "Industry": "Medical Electronics"
+  },
+  "HOMB": {
+    "Name": "Home BancShares, Inc.",
+    "Sector": "Finance",
+    "Industry": "Major Banks"
+  },
+  "HOPE": {
+    "Name": "Hope Bancorp, Inc.",
+    "Sector": "Finance",
+    "Industry": "Major Banks"
+  },
+  "HZNP": {
+    "Name": "Horizon Therapeutics Public Limited Company",
+    "Sector": "Health Care",
+    "Industry": "Major Pharmaceuticals"
+  },
+  "TWNK": {
+    "Name": "Hostess Brands, Inc.",
+    "Sector": "Consumer Non-Durables",
+    "Industry": "Packaged Foods"
+  },
+  "HTHT": {
+    "Name": "Huazhu Group Limited",
+    "Sector": "Consumer Services",
+    "Industry": "Hotels/Resorts"
+  },
+  "HUBG": {
+    "Name": "Hub Group, Inc.",
+    "Sector": "Transportation",
+    "Industry": "Oil Refining/Marketing"
+  },
+  "HBAN": {
+    "Name": "Huntington Bancshares Incorporated",
+    "Sector": "Finance",
+    "Industry": "Major Banks"
+  },
+  "HCM": {
+    "Name": "Hutchison China MediTech Limited",
+    "Sector": "Health Care",
+    "Industry": "Major Pharmaceuticals"
+  },
+  "IAC": {
+    "Name": "IAC/InterActiveCorp",
+    "Sector": "Consumer Services",
+    "Industry": "Other Specialty Stores"
+  },
+  "IBKC": {
+    "Name": "IBERIABANK Corporation",
+    "Sector": "Finance",
+    "Industry": "Major Banks"
+  },
+  "IEP": {
+    "Name": "Icahn Enterprises L.P.",
+    "Sector": "Capital Goods",
+    "Industry": "Auto Parts:O.E.M."
+  },
+  "ICFI": {
+    "Name": "ICF International, Inc.",
+    "Sector": "Consumer Services",
+    "Industry": "Professional Services"
+  },
+  "ICLR": {
+    "Name": "ICON plc",
+    "Sector": "Health Care",
+    "Industry": "Biotechnology: Commercial Physical & Biological Resarch"
+  },
+  "ICUI": {
+    "Name": "ICU Medical, Inc.",
+    "Sector": "Health Care",
+    "Industry": "Medical/Dental Instruments"
+  },
+  "IDXX": {
+    "Name": "IDEXX Laboratories, Inc.",
+    "Sector": "Health Care",
+    "Industry": "Biotechnology: In Vitro & In Vivo Diagnostic Substances"
+  },
+  "IGMS": {
+    "Name": "IGM Biosciences, Inc.",
+    "Sector": "Health Care",
+    "Industry": "Major Pharmaceuticals"
+  },
+  "INFO": {
+    "Name": "IHS Markit Ltd.",
+    "Sector": "Technology",
+    "Industry": "Computer Software: Programming, Data Processing"
+  },
+  "IIVI": {
+    "Name": "II-VI Incorporated",
+    "Sector": "Capital Goods",
+    "Industry": "Electronic Components"
+  },
+  "ILMN": {
+    "Name": "Illumina, Inc.",
+    "Sector": "Capital Goods",
+    "Industry": "Biotechnology: Laboratory Analytical Instruments"
+  },
+  "IMAB": {
+    "Name": "I-MAB",
+    "Sector": "Health Care",
+    "Industry": "Major Pharmaceuticals"
+  },
+  "IMMU": {
+    "Name": "Immunomedics, Inc.",
+    "Sector": "Health Care",
+    "Industry": "Biotechnology: In Vitro & In Vivo Diagnostic Substances"
+  },
+  "IMVT": {
+    "Name": "Immunovant, Inc. ",
+    "Sector": "Health Care",
+    "Industry": "Biotechnology: Biological Products (No Diagnostic Substances)"
+  },
+  "NARI": {
+    "Name": "Inari Medical, Inc.",
+    "Sector": "Health Care",
+    "Industry": "Medical/Dental Instruments"
+  },
+  "INCY": {
+    "Name": "Incyte Corporation",
+    "Sector": "Health Care",
+    "Industry": "Biotechnology: Commercial Physical & Biological Resarch"
+  },
+  "INDB": {
+    "Name": "Independent Bank Corp.",
+    "Sector": "Finance",
+    "Industry": "Major Banks"
+  },
+  "IBTX": {
+    "Name": "Independent Bank Group, Inc",
+    "Sector": "Finance",
+    "Industry": "Major Banks"
+  },
+  "ILPT": {
+    "Name": "Industrial Logistics Properties Trust",
+    "Sector": "Consumer Services",
+    "Industry": "Real Estate Investment Trusts"
+  },
+  "IOSP": {
+    "Name": "Innospec Inc.",
+    "Sector": "Basic Industries",
+    "Industry": "Major Chemicals"
+  },
+  "INVA": {
+    "Name": "Innoviva, Inc.",
+    "Sector": "Health Care",
+    "Industry": "Major Pharmaceuticals"
+  },
+  "INOV": {
+    "Name": "Inovalon Holdings, Inc.",
+    "Sector": "Technology",
+    "Industry": "EDP Services"
+  },
+  "INO": {
+    "Name": "Inovio Pharmaceuticals, Inc.",
+    "Sector": "Health Care",
+    "Industry": "Medical/Dental Instruments"
+  },
+  "NSIT": {
+    "Name": "Insight Enterprises, Inc.",
+    "Sector": "Consumer Services",
+    "Industry": "Catalog/Specialty Distribution"
+  },
+  "INSM": {
+    "Name": "Insmed, Inc.",
+    "Sector": "Health Care",
+    "Industry": "Major Pharmaceuticals"
+  },
+  "PODD": {
+    "Name": "Insulet Corporation",
+    "Sector": "Health Care",
+    "Industry": "Medical/Dental Instruments"
+  },
+  "IART": {
+    "Name": "Integra LifeSciences Holdings Corporation",
+    "Sector": "Health Care",
+    "Industry": "Medical/Dental Instruments"
+  },
+  "INTC": {
+    "Name": "Intel Corporation",
+    "Sector": "Technology",
+    "Industry": "Semiconductors"
+  },
+  "NTLA": {
+    "Name": "Intellia Therapeutics, Inc.",
+    "Sector": "Health Care",
+    "Industry": "Biotechnology: In Vitro & In Vivo Diagnostic Substances"
+  },
+  "IPAR": {
+    "Name": "Inter Parfums, Inc.",
+    "Sector": "Consumer Non-Durables",
+    "Industry": "Package Goods/Cosmetics"
+  },
+  "IBKR": {
+    "Name": "Interactive Brokers Group, Inc.",
+    "Sector": "Finance",
+    "Industry": "Investment Bankers/Brokers/Service"
+  },
+  "ICPT": {
+    "Name": "Intercept Pharmaceuticals, Inc.",
+    "Sector": "Health Care",
+    "Industry": "Major Pharmaceuticals"
+  },
+  "IDCC": {
+    "Name": "InterDigital, Inc.",
+    "Sector": "Miscellaneous",
+    "Industry": "Multi-Sector Companies"
+  },
+  "IBOC": {
+    "Name": "International Bancshares Corporation",
+    "Sector": "Finance",
+    "Industry": "Major Banks"
+  },
+  "ITCI": {
+    "Name": "Intra-Cellular Therapies Inc.",
+    "Sector": "Health Care",
+    "Industry": "Major Pharmaceuticals"
+  },
+  "INTU": {
+    "Name": "Intuit Inc.",
+    "Sector": "Technology",
+    "Industry": "Computer Software: Prepackaged Software"
+  },
+  "ISRG": {
+    "Name": "Intuitive Surgical, Inc.",
+    "Sector": "Health Care",
+    "Industry": "Industrial Specialties"
+  },
+  "ISBC": {
+    "Name": "Investors Bancorp, Inc.",
+    "Sector": "Finance",
+    "Industry": "Major Banks"
+  },
+  "IONS": {
+    "Name": "Ionis Pharmaceuticals, Inc.",
+    "Sector": "Health Care",
+    "Industry": "Major Pharmaceuticals"
+  },
+  "IOVA": {
+    "Name": "Iovance Biotherapeutics, Inc.",
+    "Sector": "Health Care",
+    "Industry": "Biotechnology: Biological Products (No Diagnostic Substances)"
+  },
+  "IPGP": {
+    "Name": "IPG Photonics Corporation",
+    "Sector": "Technology",
+    "Industry": "Semiconductors"
+  },
+  "IQ": {
+    "Name": "iQIYI, Inc.",
+    "Sector": "Consumer Services",
+    "Industry": "Consumer Electronics/Video Chains"
+  },
+  "IRTC": {
+    "Name": "iRhythm Technologies, Inc.",
+    "Sector": "Health Care",
+    "Industry": "Medical/Dental Instruments"
+  },
+  "IRDM": {
+    "Name": "Iridium Communications Inc",
+    "Sector": "Capital Goods",
+    "Industry": "Telecommunications Equipment"
+  },
+  "IRBT": {
+    "Name": "iRobot Corporation",
+    "Sector": "Consumer Durables",
+    "Industry": "Consumer Electronics/Appliances"
+  },
+  "IRWD": {
+    "Name": "Ironwood Pharmaceuticals, Inc.",
+    "Sector": "Health Care",
+    "Industry": "Major Pharmaceuticals"
+  },
+  "ITRI": {
+    "Name": "Itron, Inc.",
+    "Sector": "Capital Goods",
+    "Industry": "Electrical Products"
+  },
+  "JJSF": {
+    "Name": "J & J Snack Foods Corp.",
+    "Sector": "Consumer Non-Durables",
+    "Industry": "Specialty Foods"
+  },
+  "JBHT": {
+    "Name": "J.B. Hunt Transport Services, Inc.",
+    "Sector": "Transportation",
+    "Industry": "Trucking Freight/Courier Services"
+  },
+  "JCOM": {
+    "Name": "j2 Global, Inc.",
+    "Sector": "Technology",
+    "Industry": "Telecommunications Equipment"
+  },
+  "JKHY": {
+    "Name": "Jack Henry & Associates, Inc.",
+    "Sector": "Technology",
+    "Industry": "EDP Services"
+  },
+  "JACK": {
+    "Name": "Jack In The Box Inc.",
+    "Sector": "Consumer Services",
+    "Industry": "Restaurants"
+  },
+  "JRVR": {
+    "Name": "James River Group Holdings, Ltd.",
+    "Sector": "Finance",
+    "Industry": "Property-Casualty Insurers"
+  },
+  "JAZZ": {
+    "Name": "Jazz Pharmaceuticals plc",
+    "Sector": "Health Care",
+    "Industry": "Major Pharmaceuticals"
+  },
+  "JD": {
+    "Name": "JD.com, Inc.",
+    "Sector": "Consumer Services",
+    "Industry": "Other Specialty Stores"
+  },
+  "JBLU": {
+    "Name": "JetBlue Airways Corporation",
+    "Sector": "Transportation",
+    "Industry": "Air Freight/Delivery Services"
+  },
+  "YY": {
+    "Name": "JOYY Inc.",
+    "Sector": "Technology",
+    "Industry": "EDP Services"
+  },
+  "KALU": {
+    "Name": "Kaiser Aluminum Corporation",
+    "Sector": "Capital Goods",
+    "Industry": "Metal Fabrications"
+  },
+  "KRTX": {
+    "Name": "Karuna Therapeutics, Inc.",
+    "Sector": "Health Care",
+    "Industry": "Major Pharmaceuticals"
+  },
+  "KPTI": {
+    "Name": "Karyopharm Therapeutics Inc.",
+    "Sector": "Health Care",
+    "Industry": "Major Pharmaceuticals"
+  },
+  "KC": {
+    "Name": "Kingsoft Cloud Holdings Limited",
+    "Sector": "Technology",
+    "Industry": "Computer Software: Prepackaged Software"
+  },
+  "KNSA": {
+    "Name": "Kiniksa Pharmaceuticals, Ltd.",
+    "Sector": "Health Care",
+    "Industry": "Major Pharmaceuticals"
+  },
+  "KNSL": {
+    "Name": "Kinsale Capital Group, Inc.",
+    "Sector": "Finance",
+    "Industry": "Property-Casualty Insurers"
+  },
+  "KLAC": {
+    "Name": "KLA Corporation ",
+    "Sector": "Capital Goods",
+    "Industry": "Electronic Components"
+  },
+  "KOD": {
+    "Name": "Kodiak Sciences Inc",
+    "Sector": "Health Care",
+    "Industry": "Biotechnology: Biological Products (No Diagnostic Substances)"
+  },
+  "KRNT": {
+    "Name": "Kornit Digital Ltd.",
+    "Sector": "Capital Goods",
+    "Industry": "Industrial Machinery/Components"
+  },
+  "KTOS": {
+    "Name": "Kratos Defense & Security Solutions, Inc.",
+    "Sector": "Capital Goods",
+    "Industry": "Military/Government/Technical"
+  },
+  "KLIC": {
+    "Name": "Kulicke and Soffa Industries, Inc.",
+    "Sector": "Technology",
+    "Industry": "Semiconductors"
+  },
+  "LKFN": {
+    "Name": "Lakeland Financial Corporation",
+    "Sector": "Finance",
+    "Industry": "Major Banks"
+  },
+  "LRCX": {
+    "Name": "Lam Research Corporation",
+    "Sector": "Technology",
+    "Industry": "Industrial Machinery/Components"
+  },
+  "LAMR": {
+    "Name": "Lamar Advertising Company",
+    "Sector": "Consumer Services",
+    "Industry": "Real Estate Investment Trusts"
+  },
+  "LANC": {
+    "Name": "Lancaster Colony Corporation",
+    "Sector": "Consumer Non-Durables",
+    "Industry": "Packaged Foods"
+  },
+  "LSTR": {
+    "Name": "Landstar System, Inc.",
+    "Sector": "Transportation",
+    "Industry": "Trucking Freight/Courier Services"
+  },
+  "LSCC": {
+    "Name": "Lattice Semiconductor Corporation",
+    "Sector": "Technology",
+    "Industry": "Semiconductors"
+  },
+  "LAUR": {
+    "Name": "Laureate Education, Inc.",
+    "Sector": "Consumer Services",
+    "Industry": "Other Consumer Services"
+  },
+  "LEGN": {
+    "Name": "Legend Biotech Corporation",
+    "Sector": "Health Care",
+    "Industry": "Major Pharmaceuticals"
+  },
+  "TREE": {
+    "Name": "LendingTree, Inc.",
+    "Sector": "Finance",
+    "Industry": "Finance: Consumer Services"
+  },
+  "LX": {
+    "Name": "LexinFintech Holdings Ltd.",
+    "Sector": "Finance",
+    "Industry": "Finance: Consumer Services"
+  },
+  "LGIH": {
+    "Name": "LGI Homes, Inc.",
+    "Sector": "Capital Goods",
+    "Industry": "Homebuilding"
+  },
+  "LHCG": {
+    "Name": "LHC Group",
+    "Sector": "Health Care",
+    "Industry": "Medical/Nursing Services"
+  },
+  "LBRDA": {
+    "Name": "Liberty Broadband Corporation",
+    "Sector": "Consumer Services",
+    "Industry": "Television Services"
+  },
+  "LBRDK": {
+    "Name": "Liberty Broadband Corporation",
+    "Sector": "Consumer Services",
+    "Industry": "Television Services"
+  },
+  "LBTYA": {
+    "Name": "Liberty Global plc",
+    "Sector": "n/a",
+    "Industry": "n/a"
+  },
+  "LBTYB": {
+    "Name": "Liberty Global plc",
+    "Sector": "Consumer Services",
+    "Industry": "Television Services"
+  },
+  "LBTYK": {
+    "Name": "Liberty Global plc",
+    "Sector": "n/a",
+    "Industry": "n/a"
+  },
+  "LILA": {
+    "Name": "Liberty Latin America Ltd.",
+    "Sector": "Consumer Services",
+    "Industry": "Television Services"
+  },
+  "LILAK": {
+    "Name": "Liberty Latin America Ltd.",
+    "Sector": "Consumer Services",
+    "Industry": "Television Services"
+  },
+  "BATRA": {
+    "Name": "Liberty Media Corporation",
+    "Sector": "Consumer Services",
+    "Industry": "Broadcasting"
+  },
+  "BATRK": {
+    "Name": "Liberty Media Corporation",
+    "Sector": "Consumer Services",
+    "Industry": "Broadcasting"
+  },
+  "FWONA": {
+    "Name": "Liberty Media Corporation",
+    "Sector": "Consumer Services",
+    "Industry": "Broadcasting"
+  },
+  "FWONK": {
+    "Name": "Liberty Media Corporation",
+    "Sector": "Consumer Services",
+    "Industry": "Broadcasting"
+  },
+  "LSXMA": {
+    "Name": "Liberty Media Corporation",
+    "Sector": "Consumer Services",
+    "Industry": "Broadcasting"
+  },
+  "LSXMB": {
+    "Name": "Liberty Media Corporation",
+    "Sector": "Consumer Services",
+    "Industry": "Broadcasting"
+  },
+  "LSXMK": {
+    "Name": "Liberty Media Corporation",
+    "Sector": "Consumer Services",
+    "Industry": "Broadcasting"
+  },
+  "LTRPB": {
+    "Name": "Liberty TripAdvisor Holdings, Inc.",
+    "Sector": "Technology",
+    "Industry": "EDP Services"
+  },
+  "LGND": {
+    "Name": "Ligand Pharmaceuticals Incorporated",
+    "Sector": "Health Care",
+    "Industry": "Major Pharmaceuticals"
+  },
+  "LECO": {
+    "Name": "Lincoln Electric Holdings, Inc.",
+    "Sector": "Technology",
+    "Industry": "Industrial Machinery/Components"
+  },
+  "LFUS": {
+    "Name": "Littelfuse, Inc.",
+    "Sector": "Consumer Durables",
+    "Industry": "Electrical Products"
+  },
+  "LIVN": {
+    "Name": "LivaNova PLC",
+    "Sector": "Health Care",
+    "Industry": "Biotechnology: Electromedical & Electrotherapeutic Apparatus"
+  },
+  "LPSN": {
+    "Name": "LivePerson, Inc.",
+    "Sector": "Technology",
+    "Industry": "Computer Software: Prepackaged Software"
+  },
+  "LVGO": {
+    "Name": "Livongo Health, Inc.",
+    "Sector": "Technology",
+    "Industry": "Computer Software: Programming, Data Processing"
+  },
+  "LKQ": {
+    "Name": "LKQ Corporation",
+    "Sector": "Consumer Services",
+    "Industry": "Motor Vehicles"
+  },
+  "LOGI": {
+    "Name": "Logitech International S.A.",
+    "Sector": "Technology",
+    "Industry": "Computer peripheral equipment"
+  },
+  "LOGM": {
+    "Name": "LogMein, Inc.",
+    "Sector": "Technology",
+    "Industry": "Computer Software: Prepackaged Software"
+  },
+  "LPLA": {
+    "Name": "LPL Financial Holdings Inc.",
+    "Sector": "Finance",
+    "Industry": "Investment Bankers/Brokers/Service"
+  },
+  "LULU": {
+    "Name": "lululemon athletica inc.",
+    "Sector": "Consumer Non-Durables",
+    "Industry": "Apparel"
+  },
+  "LITE": {
+    "Name": "Lumentum Holdings Inc.",
+    "Sector": "Capital Goods",
+    "Industry": "Telecommunications Equipment"
+  },
+  "LMNX": {
+    "Name": "Luminex Corporation",
+    "Sector": "Health Care",
+    "Industry": "Medical/Dental Instruments"
+  },
+  "LYFT": {
+    "Name": "Lyft, Inc.",
+    "Sector": "Miscellaneous",
+    "Industry": "Business Services"
+  },
+  "MTSI": {
+    "Name": "MACOM Technology Solutions Holdings, Inc.",
+    "Sector": "Technology",
+    "Industry": "Semiconductors"
+  },
+  "MDGL": {
+    "Name": "Madrigal Pharmaceuticals, Inc.",
+    "Sector": "Health Care",
+    "Industry": "Major Pharmaceuticals"
+  },
+  "MGLN": {
+    "Name": "Magellan Health, Inc.",
+    "Sector": "Health Care",
+    "Industry": "Hospital/Nursing Management"
+  },
+  "MMYT": {
+    "Name": "MakeMyTrip Limited",
+    "Sector": "Consumer Services",
+    "Industry": "Transportation Services"
+  },
+  "MBUU": {
+    "Name": "Malibu Boats, Inc.",
+    "Sector": "Capital Goods",
+    "Industry": "Marine Transportation"
+  },
+  "MANH": {
+    "Name": "Manhattan Associates, Inc.",
+    "Sector": "Technology",
+    "Industry": "Computer Software: Prepackaged Software"
+  },
+  "MANT": {
+    "Name": "ManTech International Corporation",
+    "Sector": "Consumer Services",
+    "Industry": "Other Consumer Services"
+  },
+  "MKTX": {
+    "Name": "MarketAxess Holdings, Inc.",
+    "Sector": "Finance",
+    "Industry": "Investment Bankers/Brokers/Service"
+  },
+  "MAR": {
+    "Name": "Marriott International",
+    "Sector": "Consumer Services",
+    "Industry": "Hotels/Resorts"
+  },
+  "MRTN": {
+    "Name": "Marten Transport, Ltd.",
+    "Sector": "Transportation",
+    "Industry": "Trucking Freight/Courier Services"
+  },
+  "MRVL": {
+    "Name": "Marvell Technology Group Ltd.",
+    "Sector": "Technology",
+    "Industry": "Semiconductors"
+  },
+  "MASI": {
+    "Name": "Masimo Corporation",
+    "Sector": "Health Care",
+    "Industry": "Biotechnology: Electromedical & Electrotherapeutic Apparatus"
+  },
+  "MTCH": {
+    "Name": "Match Group, Inc.",
+    "Sector": "Technology",
+    "Industry": "Computer Software: Programming, Data Processing"
+  },
+  "MTLS": {
+    "Name": "Materialise NV",
+    "Sector": "Technology",
+    "Industry": "Computer Software: Prepackaged Software"
+  },
+  "MAT": {
+    "Name": "Mattel, Inc.",
+    "Sector": "Consumer Non-Durables",
+    "Industry": "Recreational Products/Toys"
+  },
+  "MXIM": {
+    "Name": "Maxim Integrated Products, Inc.",
+    "Sector": "Technology",
+    "Industry": "Semiconductors"
+  },
+  "MGRC": {
+    "Name": "McGrath RentCorp",
+    "Sector": "Technology",
+    "Industry": "Diversified Commercial Services"
+  },
+  "MEDP": {
+    "Name": "Medpace Holdings, Inc.",
+    "Sector": "Health Care",
+    "Industry": "Biotechnology: Commercial Physical & Biological Resarch"
+  },
+  "MLCO": {
+    "Name": "Melco Resorts & Entertainment Limited",
+    "Sector": "Consumer Services",
+    "Industry": "Hotels/Resorts"
+  },
+  "MELI": {
+    "Name": "MercadoLibre, Inc.",
+    "Sector": "Miscellaneous",
+    "Industry": "Business Services"
+  },
+  "MRCY": {
+    "Name": "Mercury Systems Inc",
+    "Sector": "Capital Goods",
+    "Industry": "Electrical Products"
+  },
+  "MMSI": {
+    "Name": "Merit Medical Systems, Inc.",
+    "Sector": "Health Care",
+    "Industry": "Medical/Dental Instruments"
+  },
+  "MRSN": {
+    "Name": "Mersana Therapeutics, Inc.",
+    "Sector": "Health Care",
+    "Industry": "Major Pharmaceuticals"
+  },
+  "MESO": {
+    "Name": "Mesoblast Limited",
+    "Sector": "Health Care",
+    "Industry": "Biotechnology: Biological Products (No Diagnostic Substances)"
+  },
+  "MEOH": {
+    "Name": "Methanex Corporation",
+    "Sector": "Basic Industries",
+    "Industry": "Major Chemicals"
+  },
+  "MGEE": {
+    "Name": "MGE Energy Inc.",
+    "Sector": "Energy",
+    "Industry": "Electric Utilities: Central"
+  },
+  "MCHP": {
+    "Name": "Microchip Technology Incorporated",
+    "Sector": "Technology",
+    "Industry": "Semiconductors"
+  },
+  "MU": {
+    "Name": "Micron Technology, Inc.",
+    "Sector": "Technology",
+    "Industry": "Semiconductors"
+  },
+  "MSFT": {
+    "Name": "Microsoft Corporation",
+    "Sector": "Technology",
+    "Industry": "Computer Software: Prepackaged Software"
+  },
+  "MSTR": {
+    "Name": "MicroStrategy Incorporated",
+    "Sector": "Technology",
+    "Industry": "Computer Software: Prepackaged Software"
+  },
+  "MSEX": {
+    "Name": "Middlesex Water Company",
+    "Sector": "Public Utilities",
+    "Industry": "Water Supply"
+  },
+  "TIGO": {
+    "Name": "Millicom International Cellular S.A.",
+    "Sector": "Public Utilities",
+    "Industry": "Telecommunications Equipment"
+  },
+  "MIME": {
+    "Name": "Mimecast Limited",
+    "Sector": "Technology",
+    "Industry": "Computer Software: Prepackaged Software"
+  },
+  "MRTX": {
+    "Name": "Mirati Therapeutics, Inc.",
+    "Sector": "Health Care",
+    "Industry": "Major Pharmaceuticals"
+  },
+  "MKSI": {
+    "Name": "MKS Instruments, Inc.",
+    "Sector": "Capital Goods",
+    "Industry": "Industrial Machinery/Components"
+  },
+  "MINI": {
+    "Name": "Mobile Mini, Inc.",
+    "Sector": "Capital Goods",
+    "Industry": "Metal Fabrications"
+  },
+  "MRNA": {
+    "Name": "Moderna, Inc.",
+    "Sector": "Health Care",
+    "Industry": "Biotechnology: Biological Products (No Diagnostic Substances)"
+  },
+  "MNTA": {
+    "Name": "Momenta Pharmaceuticals, Inc.",
+    "Sector": "Health Care",
+    "Industry": "Biotechnology: Biological Products (No Diagnostic Substances)"
+  },
+  "MOMO": {
+    "Name": "Momo Inc.",
+    "Sector": "Technology",
+    "Industry": "Computer Software: Prepackaged Software"
+  },
+  "MDLZ": {
+    "Name": "Mondelez International, Inc.",
+    "Sector": "Consumer Non-Durables",
+    "Industry": "Packaged Foods"
+  },
+  "MDB": {
+    "Name": "MongoDB, Inc.",
+    "Sector": "Technology",
+    "Industry": "Computer Software: Prepackaged Software"
+  },
+  "MPWR": {
+    "Name": "Monolithic Power Systems, Inc.",
+    "Sector": "Technology",
+    "Industry": "Semiconductors"
+  },
+  "MNRO": {
+    "Name": "Monro, Inc. ",
+    "Sector": "Consumer Services",
+    "Industry": "Automotive Aftermarket"
+  },
+  "MNST": {
+    "Name": "Monster Beverage Corporation",
+    "Sector": "Consumer Non-Durables",
+    "Industry": "Beverages (Production/Distribution)"
+  },
+  "MORN": {
+    "Name": "Morningstar, Inc.",
+    "Sector": "Finance",
+    "Industry": "Investment Managers"
+  },
+  "MOR": {
+    "Name": "MorphoSys AG",
+    "Sector": "Health Care",
+    "Industry": "Major Pharmaceuticals"
+  },
+  "COOP": {
+    "Name": "Mr. Cooper Group Inc.",
+    "Sector": "Finance",
+    "Industry": "Finance: Consumer Services"
+  },
+  "MYL": {
+    "Name": "Mylan N.V.",
+    "Sector": "Health Care",
+    "Industry": "Major Pharmaceuticals"
+  },
+  "MYOK": {
+    "Name": "MyoKardia, Inc.",
+    "Sector": "Health Care",
+    "Industry": "Major Pharmaceuticals"
+  },
+  "NSTG": {
+    "Name": "NanoString Technologies, Inc.",
+    "Sector": "Health Care",
+    "Industry": "Biotechnology: Biological Products (No Diagnostic Substances)"
+  },
+  "NDAQ": {
+    "Name": "Nasdaq, Inc.",
+    "Sector": "Finance",
+    "Industry": "Investment Bankers/Brokers/Service"
+  },
+  "NTRA": {
+    "Name": "Natera, Inc.",
+    "Sector": "Health Care",
+    "Industry": "Medical Specialities"
+  },
+  "FIZZ": {
+    "Name": "National Beverage Corp.",
+    "Sector": "Consumer Non-Durables",
+    "Industry": "Beverages (Production/Distribution)"
+  },
+  "NGHC": {
+    "Name": "National General Holdings Corp",
+    "Sector": "Finance",
+    "Industry": "Property-Casualty Insurers"
+  },
+  "NATI": {
+    "Name": "National Instruments Corporation",
+    "Sector": "Technology",
+    "Industry": "Computer Software: Prepackaged Software"
+  },
+  "NRC": {
+    "Name": "National Research Corporation",
+    "Sector": "Health Care",
+    "Industry": "Biotechnology: Commercial Physical & Biological Resarch"
+  },
+  "EYE": {
+    "Name": "National Vision Holdings, Inc.",
+    "Sector": "Health Care",
+    "Industry": "Ophthalmic Goods"
+  },
+  "NAVI": {
+    "Name": "Navient Corporation",
+    "Sector": "Finance",
+    "Industry": "Investment Bankers/Brokers/Service"
+  },
+  "NBTB": {
+    "Name": "NBT Bancorp Inc.",
+    "Sector": "Finance",
+    "Industry": "Major Banks"
+  },
+  "NKTR": {
+    "Name": "Nektar Therapeutics",
+    "Sector": "Health Care",
+    "Industry": "Major Pharmaceuticals"
+  },
+  "NEOG": {
+    "Name": "Neogen Corporation",
+    "Sector": "Health Care",
+    "Industry": "Biotechnology: In Vitro & In Vivo Diagnostic Substances"
+  },
+  "NEO": {
+    "Name": "NeoGenomics, Inc.",
+    "Sector": "Health Care",
+    "Industry": "Precision Instruments"
+  },
+  "NTAP": {
+    "Name": "NetApp, Inc.",
+    "Sector": "Technology",
+    "Industry": "Electronic Components"
+  },
+  "NTES": {
+    "Name": "NetEase, Inc.",
+    "Sector": "Miscellaneous",
+    "Industry": "Business Services"
+  },
+  "NFLX": {
+    "Name": "Netflix, Inc.",
+    "Sector": "Consumer Services",
+    "Industry": "Consumer Electronics/Video Chains"
+  },
+  "NTCT": {
+    "Name": "NetScout Systems, Inc.",
+    "Sector": "Technology",
+    "Industry": "EDP Services"
+  },
+  "NBIX": {
+    "Name": "Neurocrine Biosciences, Inc.",
+    "Sector": "Health Care",
+    "Industry": "Biotechnology: Biological Products (No Diagnostic Substances)"
+  },
+  "NFE": {
+    "Name": "New Fortress Energy LLC",
+    "Sector": "Public Utilities",
+    "Industry": "Oil/Gas Transmission"
+  },
+  "NYMT": {
+    "Name": "New York Mortgage Trust, Inc.",
+    "Sector": "Consumer Services",
+    "Industry": "Real Estate Investment Trusts"
+  },
+  "NWL": {
+    "Name": "Newell Brands Inc.",
+    "Sector": "Consumer Non-Durables",
+    "Industry": "Plastic Products"
+  },
+  "NWS": {
+    "Name": "News Corporation",
+    "Sector": "Consumer Services",
+    "Industry": "Newspapers/Magazines"
+  },
+  "NWSA": {
+    "Name": "News Corporation",
+    "Sector": "Consumer Services",
+    "Industry": "Newspapers/Magazines"
+  },
+  "NXST": {
+    "Name": "Nexstar Media Group, Inc.",
+    "Sector": "Consumer Services",
+    "Industry": "Broadcasting"
+  },
+  "NGM": {
+    "Name": "NGM Biopharmaceuticals, Inc.",
+    "Sector": "Health Care",
+    "Industry": "Major Pharmaceuticals"
+  },
+  "EGOV": {
+    "Name": "NIC Inc.",
+    "Sector": "Miscellaneous",
+    "Industry": "Business Services"
+  },
+  "NICE": {
+    "Name": "NICE Ltd",
+    "Sector": "Technology",
+    "Industry": "Computer Software: Prepackaged Software"
+  },
+  "NKLA": {
+    "Name": "Nikola Corporation",
+    "Sector": "Capital Goods",
+    "Industry": "Auto Manufacturing"
+  },
+  "NMIH": {
+    "Name": "NMI Holdings Inc",
+    "Sector": "Finance",
+    "Industry": "Property-Casualty Insurers"
+  },
+  "NBL": {
+    "Name": "Noble Energy Inc.",
+    "Sector": "Energy",
+    "Industry": "Oil & Gas Production"
+  },
+  "NDSN": {
+    "Name": "Nordson Corporation",
+    "Sector": "Capital Goods",
+    "Industry": "Industrial Machinery/Components"
+  },
+  "NTRS": {
+    "Name": "Northern Trust Corporation",
+    "Sector": "Finance",
+    "Industry": "Major Banks"
+  },
+  "NWBI": {
+    "Name": "Northwest Bancshares, Inc.",
+    "Sector": "Finance",
+    "Industry": "Major Banks"
+  },
+  "NLOK": {
+    "Name": "NortonLifeLock Inc.",
+    "Sector": "Technology",
+    "Industry": "Computer Software: Prepackaged Software"
+  },
+  "NCLH": {
+    "Name": "Norwegian Cruise Line Holdings Ltd.",
+    "Sector": "Consumer Services",
+    "Industry": "Marine Transportation"
+  },
+  "NVMI": {
+    "Name": "Nova Measuring Instruments Ltd.",
+    "Sector": "Capital Goods",
+    "Industry": "Electronic Components"
+  },
+  "NOVT": {
+    "Name": "Novanta Inc.",
+    "Sector": "Miscellaneous",
+    "Industry": "Industrial Machinery/Components"
+  },
+  "NVAX": {
+    "Name": "Novavax, Inc.",
+    "Sector": "Health Care",
+    "Industry": "Biotechnology: Biological Products (No Diagnostic Substances)"
+  },
+  "NVCR": {
+    "Name": "NovoCure Limited",
+    "Sector": "Health Care",
+    "Industry": "Medical/Dental Instruments"
+  },
+  "NUAN": {
+    "Name": "Nuance Communications, Inc.",
+    "Sector": "Technology",
+    "Industry": "Computer Software: Prepackaged Software"
+  },
+  "NTNX": {
+    "Name": "Nutanix, Inc.",
+    "Sector": "Technology",
+    "Industry": "Computer Software: Prepackaged Software"
+  },
+  "NUVA": {
+    "Name": "NuVasive, Inc.",
+    "Sector": "Health Care",
+    "Industry": "Medical/Dental Instruments"
+  },
+  "NVDA": {
+    "Name": "NVIDIA Corporation",
+    "Sector": "Technology",
+    "Industry": "Semiconductors"
+  },
+  "NXPI": {
+    "Name": "NXP Semiconductors N.V.",
+    "Sector": "Technology",
+    "Industry": "Semiconductors"
+  },
+  "OCFC": {
+    "Name": "OceanFirst Financial Corp.",
+    "Sector": "Finance",
+    "Industry": "Savings Institutions"
+  },
+  "ODT": {
+    "Name": "Odonate Therapeutics, Inc.",
+    "Sector": "Health Care",
+    "Industry": "Major Pharmaceuticals"
+  },
+  "ODP": {
+    "Name": "Office Depot, Inc.",
+    "Sector": "Consumer Services",
+    "Industry": "Other Specialty Stores"
+  },
+  "OPI": {
+    "Name": "Office Properties Income Trust",
+    "Sector": "Finance",
+    "Industry": "Real Estate"
+  },
+  "OKTA": {
+    "Name": "Okta, Inc.",
+    "Sector": "Technology",
+    "Industry": "Computer Software: Prepackaged Software"
+  },
+  "ODFL": {
+    "Name": "Old Dominion Freight Line, Inc.",
+    "Sector": "Transportation",
+    "Industry": "Trucking Freight/Courier Services"
+  },
+  "ONB": {
+    "Name": "Old National Bancorp",
+    "Sector": "Finance",
+    "Industry": "Major Banks"
+  },
+  "OLLI": {
+    "Name": "Ollie&#39;s Bargain Outlet Holdings, Inc.",
+    "Sector": "Consumer Services",
+    "Industry": "Department/Specialty Retail Stores"
+  },
+  "OMCL": {
+    "Name": "Omnicell, Inc.",
+    "Sector": "Technology",
+    "Industry": "Computer Manufacturing"
+  },
+  "ON": {
+    "Name": "ON Semiconductor Corporation",
+    "Sector": "Technology",
+    "Industry": "Semiconductors"
+  },
+  "OTEX": {
+    "Name": "Open Text Corporation",
+    "Sector": "Technology",
+    "Industry": "EDP Services"
+  },
+  "OPK": {
+    "Name": "Opko Health, Inc.",
+    "Sector": "Health Care",
+    "Industry": "Major Pharmaceuticals"
+  },
+  "OPCH": {
+    "Name": "Option Care Health, Inc.",
+    "Sector": "Health Care",
+    "Industry": "Medical/Nursing Services"
+  },
+  "ORLY": {
+    "Name": "O&#39;Reilly Automotive, Inc.",
+    "Sector": "Consumer Services",
+    "Industry": "Other Specialty Stores"
+  },
+  "ORIC": {
+    "Name": "Oric Pharmaceuticals, Inc.",
+    "Sector": "Health Care",
+    "Industry": "Major Pharmaceuticals"
+  },
+  "OSIS": {
+    "Name": "OSI Systems, Inc.",
+    "Sector": "Technology",
+    "Industry": "Semiconductors"
+  },
+  "OTTR": {
+    "Name": "Otter Tail Corporation",
+    "Sector": "Public Utilities",
+    "Industry": "Electric Utilities: Central"
+  },
+  "PCAR": {
+    "Name": "PACCAR Inc.",
+    "Sector": "Capital Goods",
+    "Industry": "Auto Manufacturing"
+  },
+  "PPBI": {
+    "Name": "Pacific Premier Bancorp Inc",
+    "Sector": "Finance",
+    "Industry": "Major Banks"
+  },
+  "PCRX": {
+    "Name": "Pacira BioSciences, Inc.",
+    "Sector": "Health Care",
+    "Industry": "Major Pharmaceuticals"
+  },
+  "PACW": {
+    "Name": "PacWest Bancorp",
+    "Sector": "Finance",
+    "Industry": "Major Banks"
+  },
+  "PLMR": {
+    "Name": "Palomar Holdings, Inc.",
+    "Sector": "Finance",
+    "Industry": "Property-Casualty Insurers"
+  },
+  "PAAS": {
+    "Name": "Pan American Silver Corp.",
+    "Sector": "Basic Industries",
+    "Industry": "Precious Metals"
+  },
+  "PZZA": {
+    "Name": "Papa John&#39;s International, Inc.",
+    "Sector": "Consumer Services",
+    "Industry": "Restaurants"
+  },
+  "PASG": {
+    "Name": "Passage Bio, Inc.",
+    "Sector": "Health Care",
+    "Industry": "Biotechnology: Biological Products (No Diagnostic Substances)"
+  },
+  "PATK": {
+    "Name": "Patrick Industries, Inc.",
+    "Sector": "Basic Industries",
+    "Industry": "Forest Products"
+  },
+  "PDCO": {
+    "Name": "Patterson Companies, Inc.",
+    "Sector": "Health Care",
+    "Industry": "Medical Specialities"
+  },
+  "PAYX": {
+    "Name": "Paychex, Inc.",
+    "Sector": "Consumer Services",
+    "Industry": "Diversified Commercial Services"
+  },
+  "PCTY": {
+    "Name": "Paylocity Holding Corporation",
+    "Sector": "Technology",
+    "Industry": "Computer Software: Prepackaged Software"
+  },
+  "PYPL": {
+    "Name": "PayPal Holdings, Inc.",
+    "Sector": "Miscellaneous",
+    "Industry": "Business Services"
+  },
+  "CNXN": {
+    "Name": "PC Connection, Inc.",
+    "Sector": "Consumer Services",
+    "Industry": "Catalog/Specialty Distribution"
+  },
+  "PDCE": {
+    "Name": "PDC Energy, Inc.",
+    "Sector": "Energy",
+    "Industry": "Oil & Gas Production"
+  },
+  "PEGA": {
+    "Name": "Pegasystems Inc.",
+    "Sector": "Technology",
+    "Industry": "EDP Services"
+  },
+  "PTON": {
+    "Name": "Peloton Interactive, Inc.",
+    "Sector": "Energy",
+    "Industry": "Consumer Electronics/Appliances"
+  },
+  "PENN": {
+    "Name": "Penn National Gaming, Inc.",
+    "Sector": "Consumer Services",
+    "Industry": "Hotels/Resorts"
+  },
+  "PBCT": {
+    "Name": "People&#39;s United Financial, Inc.",
+    "Sector": "Finance",
+    "Industry": "Savings Institutions"
+  },
+  "PEP": {
+    "Name": "Pepsico, Inc.",
+    "Sector": "Consumer Non-Durables",
+    "Industry": "Beverages (Production/Distribution)"
+  },
+  "PRDO": {
+    "Name": "Perdoceo Education Corporation",
+    "Sector": "Consumer Services",
+    "Industry": "Other Consumer Services"
+  },
+  "PRFT": {
+    "Name": "Perficient, Inc.",
+    "Sector": "Technology",
+    "Industry": "EDP Services"
+  },
+  "PHAT": {
+    "Name": "Phathom Pharmaceuticals, Inc.",
+    "Sector": "Health Care",
+    "Industry": "Major Pharmaceuticals"
+  },
+  "PAHC": {
+    "Name": "Phibro Animal Health Corporation",
+    "Sector": "Health Care",
+    "Industry": "Major Pharmaceuticals"
+  },
+  "PPC": {
+    "Name": "Pilgrim&#39;s Pride Corporation",
+    "Sector": "Consumer Non-Durables",
+    "Industry": "Meat/Poultry/Fish"
+  },
+  "PDD": {
+    "Name": "Pinduoduo Inc.",
+    "Sector": "Miscellaneous",
+    "Industry": "Business Services"
+  },
+  "PNFP": {
+    "Name": "Pinnacle Financial Partners, Inc.",
+    "Sector": "Finance",
+    "Industry": "Major Banks"
+  },
+  "PLXS": {
+    "Name": "Plexus Corp.",
+    "Sector": "Technology",
+    "Industry": "Electrical Products"
+  },
+  "PLUG": {
+    "Name": "Plug Power, Inc.",
+    "Sector": "Energy",
+    "Industry": "Industrial Machinery/Components"
+  },
+  "PS": {
+    "Name": "Pluralsight, Inc.",
+    "Sector": "Technology",
+    "Industry": "Computer Software: Programming, Data Processing"
+  },
+  "POOL": {
+    "Name": "Pool Corporation",
+    "Sector": "Consumer Durables",
+    "Industry": "Industrial Specialties"
+  },
+  "BPOP": {
+    "Name": "Popular, Inc.",
+    "Sector": "Finance",
+    "Industry": "Major Banks"
+  },
+  "PTLA": {
+    "Name": "Portola Pharmaceuticals, Inc.",
+    "Sector": "Health Care",
+    "Industry": "Major Pharmaceuticals"
+  },
+  "PCH": {
+    "Name": "PotlatchDeltic Corporation",
+    "Sector": "Consumer Services",
+    "Industry": "Real Estate Investment Trusts"
+  },
+  "POWI": {
+    "Name": "Power Integrations, Inc.",
+    "Sector": "Technology",
+    "Industry": "Semiconductors"
+  },
+  "PPD": {
+    "Name": "PPD, Inc.",
+    "Sector": "Health Care",
+    "Industry": "Biotechnology: Commercial Physical & Biological Resarch"
+  },
+  "PRAA": {
+    "Name": "PRA Group, Inc.",
+    "Sector": "Finance",
+    "Industry": "Finance: Consumer Services"
+  },
+  "PRAH": {
+    "Name": "PRA Health Sciences, Inc.",
+    "Sector": "Health Care",
+    "Industry": "Biotechnology: Commercial Physical & Biological Resarch"
+  },
+  "PINC": {
+    "Name": "Premier, Inc.",
+    "Sector": "Consumer Services",
+    "Industry": "Other Consumer Services"
+  },
+  "PSMT": {
+    "Name": "PriceSmart, Inc.",
+    "Sector": "Consumer Services",
+    "Industry": "Department/Specialty Retail Stores"
+  },
+  "PRMW": {
+    "Name": "Primo Water Corporation",
+    "Sector": "Consumer Non-Durables",
+    "Industry": "Beverages (Production/Distribution)"
+  },
+  "PFG": {
+    "Name": "Principal Financial Group Inc",
+    "Sector": "Finance",
+    "Industry": "Accident &Health Insurance"
+  },
+  "PRNB": {
+    "Name": "Principia Biopharma Inc.",
+    "Sector": "Health Care",
+    "Industry": "Major Pharmaceuticals"
+  },
+  "PRGS": {
+    "Name": "Progress Software Corporation",
+    "Sector": "Technology",
+    "Industry": "Computer Software: Prepackaged Software"
+  },
+  "PGNY": {
+    "Name": "Progyny, Inc.",
+    "Sector": "Health Care",
+    "Industry": "Misc Health and Biotechnology Services"
+  },
+  "PFPT": {
+    "Name": "Proofpoint, Inc.",
+    "Sector": "Technology",
+    "Industry": "EDP Services"
+  },
+  "PSEC": {
+    "Name": "Prospect Capital Corporation",
+    "Sector": "n/a",
+    "Industry": "n/a"
+  },
+  "PTC": {
+    "Name": "PTC Inc.",
+    "Sector": "Technology",
+    "Industry": "Computer Software: Prepackaged Software"
+  },
+  "PTCT": {
+    "Name": "PTC Therapeutics, Inc.",
+    "Sector": "Health Care",
+    "Industry": "Major Pharmaceuticals"
+  },
+  "QGEN": {
+    "Name": "Qiagen N.V.",
+    "Sector": "Health Care",
+    "Industry": "Biotechnology: Biological Products (No Diagnostic Substances)"
+  },
+  "QRVO": {
+    "Name": "Qorvo, Inc.",
+    "Sector": "Technology",
+    "Industry": "Semiconductors"
+  },
+  "QCOM": {
+    "Name": "QUALCOMM Incorporated",
+    "Sector": "Technology",
+    "Industry": "Radio And Television Broadcasting And Communications Equipment"
+  },
+  "QLYS": {
+    "Name": "Qualys, Inc.",
+    "Sector": "Technology",
+    "Industry": "Computer Software: Prepackaged Software"
+  },
+  "QDEL": {
+    "Name": "Quidel Corporation",
+    "Sector": "Health Care",
+    "Industry": "Biotechnology: In Vitro & In Vivo Diagnostic Substances"
+  },
+  "QRTEA": {
+    "Name": "Qurate Retail, Inc.",
+    "Sector": "Consumer Services",
+    "Industry": "Catalog/Specialty Distribution"
+  },
+  "QRTEB": {
+    "Name": "Qurate Retail, Inc.",
+    "Sector": "Consumer Services",
+    "Industry": "Catalog/Specialty Distribution"
+  },
+  "RCM": {
+    "Name": "R1 RCM Inc.",
+    "Sector": "Consumer Services",
+    "Industry": "Other Consumer Services"
+  },
+  "RDWR": {
+    "Name": "Radware Ltd.",
+    "Sector": "Miscellaneous",
+    "Industry": "Business Services"
+  },
+  "RMBS": {
+    "Name": "Rambus, Inc.",
+    "Sector": "Technology",
+    "Industry": "Semiconductors"
+  },
+  "RPD": {
+    "Name": "Rapid7, Inc.",
+    "Sector": "Technology",
+    "Industry": "Computer Software: Prepackaged Software"
+  },
+  "RTLR": {
+    "Name": "Rattler Midstream LP",
+    "Sector": "Public Utilities",
+    "Industry": "Natural Gas Distribution"
+  },
+  "ROLL": {
+    "Name": "RBC Bearings Incorporated",
+    "Sector": "Capital Goods",
+    "Industry": "Metal Fabrications"
+  },
+  "RP": {
+    "Name": "RealPage, Inc.",
+    "Sector": "Technology",
+    "Industry": "Computer Software: Prepackaged Software"
+  },
+  "RETA": {
+    "Name": "Reata Pharmaceuticals, Inc.",
+    "Sector": "Health Care",
+    "Industry": "Major Pharmaceuticals"
+  },
+  "RRR": {
+    "Name": "Red Rock Resorts, Inc.",
+    "Sector": "Consumer Services",
+    "Industry": "Hotels/Resorts"
+  },
+  "RDFN": {
+    "Name": "Redfin Corporation",
+    "Sector": "Finance",
+    "Industry": "Real Estate"
+  },
+  "REG": {
+    "Name": "Regency Centers Corporation",
+    "Sector": "Consumer Services",
+    "Industry": "Real Estate Investment Trusts"
+  },
+  "REGN": {
+    "Name": "Regeneron Pharmaceuticals, Inc.",
+    "Sector": "Health Care",
+    "Industry": "Major Pharmaceuticals"
+  },
+  "RGNX": {
+    "Name": "REGENXBIO Inc.",
+    "Sector": "Health Care",
+    "Industry": "Biotechnology: Biological Products (No Diagnostic Substances)"
+  },
+  "RNST": {
+    "Name": "Renasant Corporation",
+    "Sector": "Finance",
+    "Industry": "Major Banks"
+  },
+  "REGI": {
+    "Name": "Renewable Energy Group, Inc.",
+    "Sector": "Basic Industries",
+    "Industry": "Major Chemicals"
+  },
+  "RCII": {
+    "Name": "Rent-A-Center Inc.",
+    "Sector": "Technology",
+    "Industry": "Diversified Commercial Services"
+  },
+  "RPAY": {
+    "Name": "Repay Holdings Corporation",
+    "Sector": "Miscellaneous",
+    "Industry": "Business Services"
+  },
+  "RGEN": {
+    "Name": "Repligen Corporation",
+    "Sector": "Health Care",
+    "Industry": "Biotechnology: Biological Products (No Diagnostic Substances)"
+  },
+  "ROIC": {
+    "Name": "Retail Opportunity Investments Corp.",
+    "Sector": "Consumer Services",
+    "Industry": "Real Estate Investment Trusts"
+  },
+  "RVNC": {
+    "Name": "Revance Therapeutics, Inc.",
+    "Sector": "Health Care",
+    "Industry": "Major Pharmaceuticals"
+  },
+  "RVMD": {
+    "Name": "Revolution Medicines, Inc.",
+    "Sector": "Health Care",
+    "Industry": "Biotechnology: Biological Products (No Diagnostic Substances)"
+  },
+  "REYN": {
+    "Name": "Reynolds Consumer Products Inc.",
+    "Sector": "Consumer Durables",
+    "Industry": "Containers/Packaging"
+  },
+  "ROKU": {
+    "Name": "Roku, Inc.",
+    "Sector": "Consumer Services",
+    "Industry": "Television Services"
+  },
+  "ROST": {
+    "Name": "Ross Stores, Inc.",
+    "Sector": "Consumer Services",
+    "Industry": "Clothing/Shoe/Accessory Stores"
+  },
+  "RGLD": {
+    "Name": "Royal Gold, Inc.",
+    "Sector": "Basic Industries",
+    "Industry": "Precious Metals"
+  },
+  "RUSHA": {
+    "Name": "Rush Enterprises, Inc.",
+    "Sector": "Consumer Durables",
+    "Industry": "Automotive Aftermarket"
+  },
+  "RUSHB": {
+    "Name": "Rush Enterprises, Inc.",
+    "Sector": "Consumer Durables",
+    "Industry": "Automotive Aftermarket"
+  },
+  "RYAAY": {
+    "Name": "Ryanair Holdings plc",
+    "Sector": "Transportation",
+    "Industry": "Air Freight/Delivery Services"
+  },
+  "SBRA": {
+    "Name": "Sabra Health Care REIT, Inc.",
+    "Sector": "Consumer Services",
+    "Industry": "Real Estate Investment Trusts"
+  },
+  "SABR": {
+    "Name": "Sabre Corporation",
+    "Sector": "Technology",
+    "Industry": "Computer Software: Programming, Data Processing"
+  },
+  "SAFT": {
+    "Name": "Safety Insurance Group, Inc.",
+    "Sector": "Finance",
+    "Industry": "Property-Casualty Insurers"
+  },
+  "SAGE": {
+    "Name": "Sage Therapeutics, Inc.",
+    "Sector": "Health Care",
+    "Industry": "Major Pharmaceuticals"
+  },
+  "SAIA": {
+    "Name": "Saia, Inc.",
+    "Sector": "Transportation",
+    "Industry": "Trucking Freight/Courier Services"
+  },
+  "SAFM": {
+    "Name": "Sanderson Farms, Inc.",
+    "Sector": "Consumer Non-Durables",
+    "Industry": "Meat/Poultry/Fish"
+  },
+  "SASR": {
+    "Name": "Sandy Spring Bancorp, Inc.",
+    "Sector": "Finance",
+    "Industry": "Major Banks"
+  },
+  "SGMO": {
+    "Name": "Sangamo Therapeutics, Inc.",
+    "Sector": "Health Care",
+    "Industry": "Biotechnology: Biological Products (No Diagnostic Substances)"
+  },
+  "SANM": {
+    "Name": "Sanmina Corporation",
+    "Sector": "Technology",
+    "Industry": "Electrical Products"
+  },
+  "SNY": {
+    "Name": "Sanofi",
+    "Sector": "Health Care",
+    "Industry": "Major Pharmaceuticals"
+  },
+  "SPNS": {
+    "Name": "Sapiens International Corporation N.V.",
+    "Sector": "Technology",
+    "Industry": "Computer Software: Prepackaged Software"
+  },
+  "SRPT": {
+    "Name": "Sarepta Therapeutics, Inc.",
+    "Sector": "Health Care",
+    "Industry": "Major Pharmaceuticals"
+  },
+  "SBAC": {
+    "Name": "SBA Communications Corporation",
+    "Sector": "Consumer Services",
+    "Industry": "Real Estate Investment Trusts"
+  },
+  "SCHL": {
+    "Name": "Scholastic Corporation",
+    "Sector": "Consumer Services",
+    "Industry": "Books"
+  },
+  "SDGR": {
+    "Name": "Schrodinger, Inc.",
+    "Sector": "Health Care",
+    "Industry": "Major Pharmaceuticals"
+  },
+  "SGMS": {
+    "Name": "Scientific Games Corp",
+    "Sector": "Technology",
+    "Industry": "EDP Services"
+  },
+  "SCPL": {
+    "Name": "SciPlay Corporation",
+    "Sector": "Technology",
+    "Industry": "EDP Services"
+  },
+  "SBCF": {
+    "Name": "Seacoast Banking Corporation of Florida",
+    "Sector": "Finance",
+    "Industry": "Major Banks"
+  },
+  "STX": {
+    "Name": "Seagate Technology PLC",
+    "Sector": "Technology",
+    "Industry": "Electronic Components"
+  },
+  "SGEN": {
+    "Name": "Seattle Genetics, Inc.",
+    "Sector": "Health Care",
+    "Industry": "Biotechnology: Biological Products (No Diagnostic Substances)"
+  },
+  "SEIC": {
+    "Name": "SEI Investments Company",
+    "Sector": "Finance",
+    "Industry": "Investment Bankers/Brokers/Service"
+  },
+  "SIGI": {
+    "Name": "Selective Insurance Group, Inc.",
+    "Sector": "Finance",
+    "Industry": "Property-Casualty Insurers"
+  },
+  "SMTC": {
+    "Name": "Semtech Corporation",
+    "Sector": "Technology",
+    "Industry": "Semiconductors"
+  },
+  "SVC": {
+    "Name": "Service Properties Trust",
+    "Sector": "Consumer Services",
+    "Industry": "Real Estate Investment Trusts"
+  },
+  "SFBS": {
+    "Name": "ServisFirst Bancshares, Inc.",
+    "Sector": "Finance",
+    "Industry": "Major Banks"
+  },
+  "SHEN": {
+    "Name": "Shenandoah Telecommunications Co",
+    "Sector": "Public Utilities",
+    "Industry": "Telecommunications Equipment"
+  },
+  "SWAV": {
+    "Name": "ShockWave Medical, Inc.",
+    "Sector": "Health Care",
+    "Industry": "Medical/Dental Instruments"
+  },
+  "SBNY": {
+    "Name": "Signature Bank",
+    "Sector": "Finance",
+    "Industry": "Major Banks"
+  },
+  "SLGN": {
+    "Name": "Silgan Holdings Inc.",
+    "Sector": "Consumer Durables",
+    "Industry": "Containers/Packaging"
+  },
+  "SLAB": {
+    "Name": "Silicon Laboratories, Inc.",
+    "Sector": "Technology",
+    "Industry": "Semiconductors"
+  },
+  "SIMO": {
+    "Name": "Silicon Motion Technology Corporation",
+    "Sector": "Technology",
+    "Industry": "Semiconductors"
+  },
+  "SILK": {
+    "Name": "Silk Road Medical, Inc.",
+    "Sector": "Health Care",
+    "Industry": "Medical/Dental Instruments"
+  },
+  "SFNC": {
+    "Name": "Simmons First National Corporation",
+    "Sector": "Finance",
+    "Industry": "Major Banks"
+  },
+  "SINA": {
+    "Name": "Sina Corporation",
+    "Sector": "Technology",
+    "Industry": "Computer Software: Prepackaged Software"
+  },
+  "SBGI": {
+    "Name": "Sinclair Broadcast Group, Inc.",
+    "Sector": "Consumer Services",
+    "Industry": "Broadcasting"
+  },
+  "SIRI": {
+    "Name": "Sirius XM Holdings Inc.",
+    "Sector": "Consumer Services",
+    "Industry": "Broadcasting"
+  },
+  "SKYW": {
+    "Name": "SkyWest, Inc.",
+    "Sector": "Transportation",
+    "Industry": "Air Freight/Delivery Services"
+  },
+  "SWKS": {
+    "Name": "Skyworks Solutions, Inc.",
+    "Sector": "Technology",
+    "Industry": "Semiconductors"
+  },
+  "SNBR": {
+    "Name": "Sleep Number Corporation",
+    "Sector": "Consumer Durables",
+    "Industry": "Home Furnishings"
+  },
+  "SLM": {
+    "Name": "SLM Corporation",
+    "Sector": "Finance",
+    "Industry": "Finance: Consumer Services"
+  },
+  "SDC": {
+    "Name": "SmileDirectClub, Inc.",
+    "Sector": "Health Care",
+    "Industry": "Medical/Dental Instruments"
+  },
+  "SEDG": {
+    "Name": "SolarEdge Technologies, Inc.",
+    "Sector": "Technology",
+    "Industry": "Semiconductors"
+  },
+  "SONO": {
+    "Name": "Sonos, Inc.",
+    "Sector": "Consumer Non-Durables",
+    "Industry": "Consumer Electronics/Appliances"
+  },
+  "SSB": {
+    "Name": "South State Corporation",
+    "Sector": "Finance",
+    "Industry": "Major Banks"
+  },
+  "SY": {
+    "Name": "So-Young International Inc.",
+    "Sector": "Technology",
+    "Industry": "EDP Services"
+  },
+  "SAVE": {
+    "Name": "Spirit Airlines, Inc.",
+    "Sector": "Transportation",
+    "Industry": "Air Freight/Delivery Services"
+  },
+  "SPLK": {
+    "Name": "Splunk Inc.",
+    "Sector": "Technology",
+    "Industry": "Computer Software: Prepackaged Software"
+  },
+  "SWTX": {
+    "Name": "SpringWorks Therapeutics, Inc.",
+    "Sector": "Health Care",
+    "Industry": "Biotechnology: Biological Products (No Diagnostic Substances)"
+  },
+  "SPT": {
+    "Name": "Sprout Social, Inc",
+    "Sector": "Technology",
+    "Industry": "Computer Software: Prepackaged Software"
+  },
+  "SFM": {
+    "Name": "Sprouts Farmers Market, Inc.",
+    "Sector": "Consumer Services",
+    "Industry": "Food Chains"
+  },
+  "SPSC": {
+    "Name": "SPS Commerce, Inc.",
+    "Sector": "Technology",
+    "Industry": "Computer Software: Prepackaged Software"
+  },
+  "SSNC": {
+    "Name": "SS&C Technologies Holdings, Inc.",
+    "Sector": "Technology",
+    "Industry": "Computer Software: Prepackaged Software"
+  },
+  "SSRM": {
+    "Name": "SSR Mining Inc.",
+    "Sector": "Basic Industries",
+    "Industry": "Precious Metals"
+  },
+  "STAA": {
+    "Name": "STAAR Surgical Company",
+    "Sector": "Health Care",
+    "Industry": "Ophthalmic Goods"
+  },
+  "STMP": {
+    "Name": "Stamps.com Inc.",
+    "Sector": "Miscellaneous",
+    "Industry": "Business Services"
+  },
+  "SBUX": {
+    "Name": "Starbucks Corporation",
+    "Sector": "Consumer Services",
+    "Industry": "Restaurants"
+  },
+  "STLD": {
+    "Name": "Steel Dynamics, Inc.",
+    "Sector": "Basic Industries",
+    "Industry": "Steel/Iron Ore"
+  },
+  "SRCL": {
+    "Name": "Stericycle, Inc.",
+    "Sector": "Basic Industries",
+    "Industry": "Environmental Services"
+  },
+  "SHOO": {
+    "Name": "Steven Madden, Ltd.",
+    "Sector": "Consumer Non-Durables",
+    "Industry": "Shoe Manufacturing"
+  },
+  "SFIX": {
+    "Name": "Stitch Fix, Inc.",
+    "Sector": "Consumer Services",
+    "Industry": "Catalog/Specialty Distribution"
+  },
+  "STNE": {
+    "Name": "StoneCo Ltd.",
+    "Sector": "Technology",
+    "Industry": "EDP Services"
+  },
+  "STRA": {
+    "Name": "Strategic Education, Inc.",
+    "Sector": "Consumer Services",
+    "Industry": "Other Consumer Services"
+  },
+  "SPWR": {
+    "Name": "SunPower Corporation",
+    "Sector": "Technology",
+    "Industry": "Semiconductors"
+  },
+  "RUN": {
+    "Name": "Sunrun Inc.",
+    "Sector": "Capital Goods",
+    "Industry": "Industrial Specialties"
+  },
+  "SMCI": {
+    "Name": "Super Micro Computer, Inc.",
+    "Sector": "Technology",
+    "Industry": "Computer Manufacturing"
+  },
+  "SUPN": {
+    "Name": "Supernus Pharmaceuticals, Inc.",
+    "Sector": "Health Care",
+    "Industry": "Major Pharmaceuticals"
+  },
+  "SIVB": {
+    "Name": "SVB Financial Group",
+    "Sector": "Finance",
+    "Industry": "Major Banks"
+  },
+  "SVMK": {
+    "Name": "SVMK Inc.",
+    "Sector": "Technology",
+    "Industry": "Computer Software: Programming, Data Processing"
+  },
+  "SYKE": {
+    "Name": "Sykes Enterprises, Incorporated",
+    "Sector": "Technology",
+    "Industry": "EDP Services"
+  },
+  "SYNA": {
+    "Name": "Synaptics Incorporated",
+    "Sector": "Technology",
+    "Industry": "Semiconductors"
+  },
+  "SYNH": {
+    "Name": "Syneos Health, Inc.",
+    "Sector": "Health Care",
+    "Industry": "Biotechnology: Commercial Physical & Biological Resarch"
+  },
+  "SNPS": {
+    "Name": "Synopsys, Inc.",
+    "Sector": "Technology",
+    "Industry": "Computer Software: Prepackaged Software"
+  },
+  "TROW": {
+    "Name": "T. Rowe Price Group, Inc.",
+    "Sector": "Finance",
+    "Industry": "Investment Bankers/Brokers/Service"
+  },
+  "TRHC": {
+    "Name": "Tabula Rasa HealthCare, Inc.",
+    "Sector": "Miscellaneous",
+    "Industry": "Business Services"
+  },
+  "TTWO": {
+    "Name": "Take-Two Interactive Software, Inc.",
+    "Sector": "Technology",
+    "Industry": "Computer Software: Prepackaged Software"
+  },
+  "TLND": {
+    "Name": "Talend S.A.",
+    "Sector": "Technology",
+    "Industry": "Computer Software: Prepackaged Software"
+  },
+  "TNDM": {
+    "Name": "Tandem Diabetes Care, Inc.",
+    "Sector": "Health Care",
+    "Industry": "Medical/Dental Instruments"
+  },
+  "TCF": {
+    "Name": "TCF Financial Corporation",
+    "Sector": "Finance",
+    "Industry": "Major Banks"
+  },
+  "AMTD": {
+    "Name": "TD Ameritrade Holding Corporation",
+    "Sector": "Finance",
+    "Industry": "Investment Bankers/Brokers/Service"
+  },
+  "TECD": {
+    "Name": "Tech Data Corporation",
+    "Sector": "Technology",
+    "Industry": "Retail: Computer Software & Peripheral Equipment"
+  },
+  "TENB": {
+    "Name": "Tenable Holdings, Inc.",
+    "Sector": "Technology",
+    "Industry": "Computer Software: Prepackaged Software"
+  },
+  "TER": {
+    "Name": "Teradyne, Inc.",
+    "Sector": "Capital Goods",
+    "Industry": "Electrical Products"
+  },
+  "TERP": {
+    "Name": "TerraForm Power, Inc.",
+    "Sector": "Public Utilities",
+    "Industry": "Electric Utilities: Central"
+  },
+  "TSLA": {
+    "Name": "Tesla, Inc. ",
+    "Sector": "Capital Goods",
+    "Industry": "Auto Manufacturing"
+  },
+  "TTEK": {
+    "Name": "Tetra Tech, Inc.",
+    "Sector": "Consumer Services",
+    "Industry": "Military/Government/Technical"
+  },
+  "TCBI": {
+    "Name": "Texas Capital Bancshares, Inc.",
+    "Sector": "Finance",
+    "Industry": "Major Banks"
+  },
+  "TXN": {
+    "Name": "Texas Instruments Incorporated",
+    "Sector": "Technology",
+    "Industry": "Semiconductors"
+  },
+  "TXRH": {
+    "Name": "Texas Roadhouse, Inc.",
+    "Sector": "Consumer Services",
+    "Industry": "Restaurants"
+  },
+  "TFSL": {
+    "Name": "TFS Financial Corporation",
+    "Sector": "Finance",
+    "Industry": "Savings Institutions"
+  },
+  "TGTX": {
+    "Name": "TG Therapeutics, Inc.",
+    "Sector": "Health Care",
+    "Industry": "Major Pharmaceuticals"
+  },
+  "CG": {
+    "Name": "The Carlyle Group Inc.",
+    "Sector": "Finance",
+    "Industry": "Investment Managers"
+  },
+  "CAKE": {
+    "Name": "The Cheesecake Factory Incorporated",
+    "Sector": "Consumer Services",
+    "Industry": "Restaurants"
+  },
+  "DSGX": {
+    "Name": "The Descartes Systems Group Inc.",
+    "Sector": "Technology",
+    "Industry": "Computer Software: Prepackaged Software"
+  },
+  "ENSG": {
+    "Name": "The Ensign Group, Inc.",
+    "Sector": "Health Care",
+    "Industry": "Hospital/Nursing Management"
+  },
+  "GT": {
+    "Name": "The Goodyear Tire & Rubber Company",
+    "Sector": "Consumer Durables",
+    "Industry": "Automotive Aftermarket"
+  },
+  "HAIN": {
+    "Name": "The Hain Celestial Group, Inc.",
+    "Sector": "Consumer Non-Durables",
+    "Industry": "Packaged Foods"
+  },
+  "KHC": {
+    "Name": "The Kraft Heinz Company",
+    "Sector": "Consumer Non-Durables",
+    "Industry": "Packaged Foods"
+  },
+  "MIDD": {
+    "Name": "The Middleby Corporation",
+    "Sector": "Technology",
+    "Industry": "Industrial Machinery/Components"
+  },
+  "SMPL": {
+    "Name": "The Simply Good Foods Company",
+    "Sector": "Consumer Non-Durables",
+    "Industry": "Packaged Foods"
+  },
+  "TTD": {
+    "Name": "The Trade Desk, Inc.",
+    "Sector": "Technology",
+    "Industry": "Computer Software: Programming, Data Processing"
+  },
+  "TBPH": {
+    "Name": "Theravance Biopharma, Inc.",
+    "Sector": "Health Care",
+    "Industry": "Major Pharmaceuticals"
+  },
+  "TLRY": {
+    "Name": "Tilray, Inc.",
+    "Sector": "Consumer Durables",
+    "Industry": "Specialty Chemicals"
+  },
+  "TMUS": {
+    "Name": "T-Mobile US, Inc.",
+    "Sector": "Public Utilities",
+    "Industry": "Telecommunications Equipment"
+  },
+  "TSEM": {
+    "Name": "Tower Semiconductor Ltd.",
+    "Sector": "Technology",
+    "Industry": "Semiconductors"
+  },
+  "TOWN": {
+    "Name": "Towne Bank",
+    "Sector": "n/a",
+    "Industry": "n/a"
+  },
+  "TSCO": {
+    "Name": "Tractor Supply Company",
+    "Sector": "Consumer Services",
+    "Industry": "RETAIL: Building Materials"
+  },
+  "TW": {
+    "Name": "Tradeweb Markets Inc.",
+    "Sector": "Finance",
+    "Industry": "Investment Bankers/Brokers/Service"
+  },
+  "TCDA": {
+    "Name": "Tricida, Inc.",
+    "Sector": "Health Care",
+    "Industry": "Major Pharmaceuticals"
+  },
+  "TRS": {
+    "Name": "TriMas Corporation",
+    "Sector": "Capital Goods",
+    "Industry": "Industrial Specialties"
+  },
+  "TRMB": {
+    "Name": "Trimble Inc.",
+    "Sector": "Capital Goods",
+    "Industry": "Industrial Machinery/Components"
+  },
+  "TCOM": {
+    "Name": "Trip.com Group Limited",
+    "Sector": "Miscellaneous",
+    "Industry": "Business Services"
+  },
+  "TRIP": {
+    "Name": "TripAdvisor, Inc.",
+    "Sector": "Technology",
+    "Industry": "Computer Software: Programming, Data Processing"
+  },
+  "TRUP": {
+    "Name": "Trupanion, Inc.",
+    "Sector": "Health Care",
+    "Industry": "Medical Specialities"
+  },
+  "TRMK": {
+    "Name": "Trustmark Corporation",
+    "Sector": "Finance",
+    "Industry": "Major Banks"
+  },
+  "TTEC": {
+    "Name": "TTEC Holdings, Inc.",
+    "Sector": "Technology",
+    "Industry": "Professional Services"
+  },
+  "TTMI": {
+    "Name": "TTM Technologies, Inc.",
+    "Sector": "Technology",
+    "Industry": "Electrical Products"
+  },
+  "TPTX": {
+    "Name": "Turning Point Therapeutics, Inc.",
+    "Sector": "Health Care",
+    "Industry": "Major Pharmaceuticals"
+  },
+  "TWST": {
+    "Name": "Twist Bioscience Corporation",
+    "Sector": "Health Care",
+    "Industry": "Biotechnology: Biological Products (No Diagnostic Substances)"
+  },
+  "UFPI": {
+    "Name": "UFP Industries, Inc.",
+    "Sector": "Basic Industries",
+    "Industry": "Forest Products"
+  },
+  "ULTA": {
+    "Name": "Ulta Beauty, Inc.",
+    "Sector": "Consumer Services",
+    "Industry": "Other Specialty Stores"
+  },
+  "RARE": {
+    "Name": "Ultragenyx Pharmaceutical Inc.",
+    "Sector": "Health Care",
+    "Industry": "Major Pharmaceuticals"
+  },
+  "UMBF": {
+    "Name": "UMB Financial Corporation",
+    "Sector": "Finance",
+    "Industry": "Major Banks"
+  },
+  "UMPQ": {
+    "Name": "Umpqua Holdings Corporation",
+    "Sector": "Finance",
+    "Industry": "Savings Institutions"
+  },
+  "QURE": {
+    "Name": "uniQure N.V.",
+    "Sector": "Health Care",
+    "Industry": "Major Pharmaceuticals"
+  },
+  "UAL": {
+    "Name": "United Airlines Holdings, Inc.",
+    "Sector": "Transportation",
+    "Industry": "Air Freight/Delivery Services"
+  },
+  "UBSI": {
+    "Name": "United Bankshares, Inc.",
+    "Sector": "Finance",
+    "Industry": "Major Banks"
+  },
+  "UCBI": {
+    "Name": "United Community Banks, Inc.",
+    "Sector": "Finance",
+    "Industry": "Major Banks"
+  },
+  "UTHR": {
+    "Name": "United Therapeutics Corporation",
+    "Sector": "Health Care",
+    "Industry": "Major Pharmaceuticals"
+  },
+  "UNIT": {
+    "Name": "Uniti Group Inc.",
+    "Sector": "Consumer Services",
+    "Industry": "Real Estate Investment Trusts"
+  },
+  "OLED": {
+    "Name": "Universal Display Corporation",
+    "Sector": "Capital Goods",
+    "Industry": "Electrical Products"
+  },
+  "UPWK": {
+    "Name": "Upwork Inc.",
+    "Sector": "Technology",
+    "Industry": "EDP Services"
+  },
+  "URBN": {
+    "Name": "Urban Outfitters, Inc.",
+    "Sector": "Consumer Services",
+    "Industry": "Clothing/Shoe/Accessory Stores"
+  },
+  "ECOL": {
+    "Name": "US Ecology, Inc.",
+    "Sector": "Public Utilities",
+    "Industry": "Environmental Services"
+  },
+  "VLY": {
+    "Name": "Valley National Bancorp",
+    "Sector": "Finance",
+    "Industry": "Major Banks"
+  },
+  "VRNS": {
+    "Name": "Varonis Systems, Inc.",
+    "Sector": "Technology",
+    "Industry": "Computer Software: Prepackaged Software"
+  },
+  "VEON": {
+    "Name": "VEON Ltd.",
+    "Sector": "Public Utilities",
+    "Industry": "Telecommunications Equipment"
+  },
+  "VCYT": {
+    "Name": "Veracyte, Inc.",
+    "Sector": "Health Care",
+    "Industry": "Medical Specialities"
+  },
+  "VRNT": {
+    "Name": "Verint Systems Inc.",
+    "Sector": "Technology",
+    "Industry": "EDP Services"
+  },
+  "VRSN": {
+    "Name": "VeriSign, Inc.",
+    "Sector": "Technology",
+    "Industry": "EDP Services"
+  },
+  "VRSK": {
+    "Name": "Verisk Analytics, Inc.",
+    "Sector": "Technology",
+    "Industry": "EDP Services"
+  },
+  "VRRM": {
+    "Name": "Verra Mobility Corporation",
+    "Sector": "Consumer Services",
+    "Industry": "Transportation Services"
+  },
+  "VRTX": {
+    "Name": "Vertex Pharmaceuticals Incorporated",
+    "Sector": "Health Care",
+    "Industry": "Major Pharmaceuticals"
+  },
+  "VIAC": {
+    "Name": "ViacomCBS Inc.",
+    "Sector": "Consumer Services",
+    "Industry": "Broadcasting"
+  },
+  "VIACA": {
+    "Name": "ViacomCBS Inc.",
+    "Sector": "Consumer Services",
+    "Industry": "Broadcasting"
+  },
+  "VSAT": {
+    "Name": "ViaSat, Inc.",
+    "Sector": "Technology",
+    "Industry": "Radio And Television Broadcasting And Communications Equipment"
+  },
+  "VIAV": {
+    "Name": "Viavi Solutions Inc.",
+    "Sector": "Technology",
+    "Industry": "Semiconductors"
+  },
+  "VICR": {
+    "Name": "Vicor Corporation",
+    "Sector": "Capital Goods",
+    "Industry": "Industrial Machinery/Components"
+  },
+  "VCTR": {
+    "Name": "Victory Capital Holdings, Inc.",
+    "Sector": "Finance",
+    "Industry": "Investment Managers"
+  },
+  "VIE": {
+    "Name": "Viela Bio, Inc.",
+    "Sector": "Health Care",
+    "Industry": "Major Pharmaceuticals"
+  },
+  "VNOM": {
+    "Name": "Viper Energy Partners LP",
+    "Sector": "Energy",
+    "Industry": "Oil & Gas Production"
+  },
+  "VIR": {
+    "Name": "Vir Biotechnology, Inc.",
+    "Sector": "Health Care",
+    "Industry": "Biotechnology: Biological Products (No Diagnostic Substances)"
+  },
+  "VIRT": {
+    "Name": "Virtu Financial, Inc.",
+    "Sector": "Finance",
+    "Industry": "Investment Bankers/Brokers/Service"
+  },
+  "VC": {
+    "Name": "Visteon Corporation",
+    "Sector": "Capital Goods",
+    "Industry": "Auto Parts:O.E.M."
+  },
+  "VOD": {
+    "Name": "Vodafone Group Plc",
+    "Sector": "Public Utilities",
+    "Industry": "Telecommunications Equipment"
+  },
+  "VG": {
+    "Name": "Vonage Holdings Corp.",
+    "Sector": "Public Utilities",
+    "Industry": "Telecommunications Equipment"
+  },
+  "VRM": {
+    "Name": "Vroom, Inc.",
+    "Sector": "n/a",
+    "Industry": "n/a"
+  },
+  "WBA": {
+    "Name": "Walgreens Boots Alliance, Inc.",
+    "Sector": "Health Care",
+    "Industry": "Medical/Nursing Services"
+  },
+  "WMG": {
+    "Name": "Warner Music Group Corp.",
+    "Sector": "Consumer Services",
+    "Industry": "Services-Misc. Amusement & Recreation"
+  },
+  "WAFD": {
+    "Name": "Washington Federal, Inc.",
+    "Sector": "Finance",
+    "Industry": "Major Banks"
+  },
+  "WDFC": {
+    "Name": "WD-40 Company",
+    "Sector": "Basic Industries",
+    "Industry": "Major Chemicals"
+  },
+  "WB": {
+    "Name": "Weibo Corporation",
+    "Sector": "Technology",
+    "Industry": "Computer Software: Programming, Data Processing"
+  },
+  "WEN": {
+    "Name": "Wendy&#39;s Company (The)",
+    "Sector": "Consumer Services",
+    "Industry": "Restaurants"
+  },
+  "WERN": {
+    "Name": "Werner Enterprises, Inc.",
+    "Sector": "Transportation",
+    "Industry": "Trucking Freight/Courier Services"
+  },
+  "WSBC": {
+    "Name": "WesBanco, Inc.",
+    "Sector": "Finance",
+    "Industry": "Major Banks"
+  },
+  "WABC": {
+    "Name": "Westamerica Bancorporation",
+    "Sector": "Finance",
+    "Industry": "Major Banks"
+  },
+  "WDC": {
+    "Name": "Western Digital Corporation",
+    "Sector": "Technology",
+    "Industry": "Electronic Components"
+  },
+  "WLTW": {
+    "Name": "Willis Towers Watson Public Limited Company",
+    "Sector": "Finance",
+    "Industry": "Specialty Insurers"
+  },
+  "WSC": {
+    "Name": "WillScot Corporation",
+    "Sector": "n/a",
+    "Industry": "n/a"
+  },
+  "WING": {
+    "Name": "Wingstop Inc.",
+    "Sector": "Consumer Services",
+    "Industry": "Restaurants"
+  },
+  "WTFC": {
+    "Name": "Wintrust Financial Corporation",
+    "Sector": "Finance",
+    "Industry": "Major Banks"
+  },
+  "WIX": {
+    "Name": "Wix.com Ltd.",
+    "Sector": "Technology",
+    "Industry": "Computer Software: Programming, Data Processing"
+  },
+  "WWD": {
+    "Name": "Woodward, Inc.",
+    "Sector": "Energy",
+    "Industry": "Industrial Machinery/Components"
+  },
+  "WDAY": {
+    "Name": "Workday, Inc.",
+    "Sector": "Technology",
+    "Industry": "EDP Services"
+  },
+  "WMGI": {
+    "Name": "Wright Medical Group N.V.",
+    "Sector": "Health Care",
+    "Industry": "Industrial Specialties"
+  },
+  "WSFS": {
+    "Name": "WSFS Financial Corporation",
+    "Sector": "Finance",
+    "Industry": "Major Banks"
+  },
+  "WW": {
+    "Name": "WW International, Inc. ",
+    "Sector": "Consumer Services",
+    "Industry": "Other Consumer Services"
+  },
+  "WYNN": {
+    "Name": "Wynn Resorts, Limited",
+    "Sector": "Consumer Services",
+    "Industry": "Hotels/Resorts"
+  },
+  "XEL": {
+    "Name": "Xcel Energy Inc.",
+    "Sector": "Public Utilities",
+    "Industry": "Power Generation"
+  },
+  "XNCR": {
+    "Name": "Xencor, Inc.",
+    "Sector": "Health Care",
+    "Industry": "Major Pharmaceuticals"
+  },
+  "XLNX": {
+    "Name": "Xilinx, Inc.",
+    "Sector": "Technology",
+    "Industry": "Semiconductors"
+  },
+  "XP": {
+    "Name": "XP Inc.",
+    "Sector": "Finance",
+    "Industry": "Investment Bankers/Brokers/Service"
+  },
+  "XPER": {
+    "Name": "Xperi Holding Corporation",
+    "Sector": "Technology",
+    "Industry": "Semiconductors"
+  },
+  "YNDX": {
+    "Name": "Yandex N.V.",
+    "Sector": "Technology",
+    "Industry": "Computer Software: Programming, Data Processing"
+  },
+  "YMAB": {
+    "Name": "Y-mAbs Therapeutics, Inc.",
+    "Sector": "Health Care",
+    "Industry": "Major Pharmaceuticals"
+  },
+  "ZLAB": {
+    "Name": "Zai Lab Limited",
+    "Sector": "Health Care",
+    "Industry": "Major Pharmaceuticals"
+  },
+  "ZEAL": {
+    "Name": "Zealand Pharma A/S",
+    "Sector": "Health Care",
+    "Industry": "Major Pharmaceuticals"
+  },
+  "ZBRA": {
+    "Name": "Zebra Technologies Corporation",
+    "Sector": "Technology",
+    "Industry": "Industrial Machinery/Components"
+  },
+  "ZNTL": {
+    "Name": "Zentalis Pharmaceuticals, Inc.",
+    "Sector": "Health Care",
+    "Industry": "Major Pharmaceuticals"
+  },
+  "Z": {
+    "Name": "Zillow Group, Inc.",
+    "Sector": "Miscellaneous",
+    "Industry": "Business Services"
+  },
+  "ZG": {
+    "Name": "Zillow Group, Inc.",
+    "Sector": "Miscellaneous",
+    "Industry": "Business Services"
+  },
+  "ZION": {
+    "Name": "Zions Bancorporation N.A.",
+    "Sector": "Finance",
+    "Industry": "Major Banks"
+  },
+  "ZGNX": {
+    "Name": "Zogenix, Inc.",
+    "Sector": "Health Care",
+    "Industry": "Major Pharmaceuticals"
+  },
+  "ZM": {
+    "Name": "Zoom Video Communications, Inc.",
+    "Sector": "Technology",
+    "Industry": "Computer Software: Programming, Data Processing"
+  },
+  "ZI": {
+    "Name": "ZoomInfo Technologies Inc.",
+    "Sector": "Technology",
+    "Industry": "Computer Software: Prepackaged Software"
+  },
+  "ZS": {
+    "Name": "Zscaler, Inc.",
+    "Sector": "Technology",
+    "Industry": "EDP Services"
+  },
+  "ZNGA": {
+    "Name": "Zynga Inc.",
+    "Sector": "Technology",
+    "Industry": "EDP Services"
+  }
+}
